@@ -267,8 +267,6 @@ The 18th Executive Committee carries forward a tradition of principled student-l
 </table>
 </div>
 
-<div align="center" width="800px" style="width: 800px;">
-
 <table align="center" border="1" cellspacing="0" cellpadding="10" width="100%">
 <tr>
 <td align="center" width="50%">
@@ -370,8 +368,6 @@ The 18th Executive Committee carries forward a tradition of principled student-l
 
 </details>
 
-</div>
-
 ### Previous Executive Committees
 
 The following records preserve the prior two executive committees as a reference for leadership continuity, institutional memory, and organizational progression.
@@ -382,8 +378,6 @@ The following records preserve the prior two executive committees as a reference
 <summary><strong>17th Executive Committee (2025–2026)</strong></summary>
 
 <br/>
-
-<div align="center">
 
 <table align="center" border="1" cellspacing="0" cellpadding="10" width="100%">
 <tr>
@@ -397,8 +391,6 @@ The following records preserve the prior two executive committees as a reference
 </tr>
 </table>
 
-</div>
-
 </details>
 
 ---
@@ -407,8 +399,6 @@ The following records preserve the prior two executive committees as a reference
 <summary><strong>16th Executive Committee (2024–2025)</strong></summary>
 
 <br/>
-
-<div align="center">
 
 <table align="center" border="1" cellspacing="0" cellpadding="10" width="100%">
 <tr>
@@ -422,7 +412,6 @@ The following records preserve the prior two executive committees as a reference
 </tr>
 </table>
 
-</div>
 </details>
 
 ---
@@ -432,8 +421,6 @@ The following records preserve the prior two executive committees as a reference
 ## Club Moderators
 
 EWUTC's Faculty Moderators are academic members of East West University who serve as the institutional pillars of the club. They provide scholarly oversight, strategic counsel, and mentorship that anchors the club's activities within the university's academic framework. Their guidance ensures that every initiative — from large-scale national events to applied workshop programs — upholds institutional standards and genuinely advances the educational interests of students.
-
-<div align="center">
 
 <table align="center" border="1" cellspacing="0" cellpadding="10" width="100%">
 <tr>
@@ -456,8 +443,6 @@ EWUTC's Faculty Moderators are academic members of East West University who serv
 </tr>
 </table>
 
-</div>
-
 ### Former Moderators
 
 The following honours the faculty members who served as Moderator in prior terms, whose dedication and guidance were instrumental in shaping the club's culture and institutional standing.
@@ -466,8 +451,6 @@ The following honours the faculty members who served as Moderator in prior terms
 <summary><strong>View former moderators</strong></summary>
 
 <br/>
-
-<div align="center">
 
 <table align="center" border="1" cellspacing="0" cellpadding="10" width="40%">
 <tr>
@@ -482,7 +465,6 @@ The following honours the faculty members who served as Moderator in prior terms
 </tr>
 </table>
 
-</div>
 </details>
 
 ---
