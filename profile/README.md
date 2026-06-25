@@ -5,10 +5,11 @@
   <a href="#about">About</a> •
   <a href="#upcoming-events">Upcoming Events</a> •
   <a href="#signature-events">Events</a> •
+  <a href="#updates">Updates</a> •
   <a href="#executive-committee">Executive Committee</a> •
   <a href="#moderators">Moderators</a> •
   <a href="#community">Community</a> •
-  <a href="#updates">Updates</a> •
+  <a href="#follow">Follow</a> •
   <a href="#contact">Contact</a> •
   <a href="#join-us">Membership</a>
 </p>
@@ -129,8 +130,6 @@ Telco Warfare has been held nationally since **2012** and internationally since 
 
 Introduced this year, National Learning Fest provides a practical learning platform for college and university students with applied workshops, career skills sessions, and technology tracks designed to strengthen academic and professional readiness. It brings a unique opportunity for students to learn and gain hands-on experience on topics highly relevant to the job market and university life.
 
-<a id="updates"></a>
-
 ## Updates
 
 Regular updates from EWUTC’s channels are organized with publications first, followed by activity summaries and social highlights.
@@ -142,7 +141,9 @@ Recent publications, research notes, and written insights produced by EWUTC memb
 
 - [Technical Brief: Telecom Trends](#): A technical brief on emerging telecom trends and applications for student researchers.
 - [Workshop Report](#): A written recap of the latest workshop sessions, including methodologies, outcomes, and participant insights.
-- [Research Note: Learning Fest](#): A research note detailing the educational impact and learning outcomes from the National Learning Fest. **+++ +++ +++>** 🔗 [Read More](https://ewutc.org/updates/activity)
+- [Research Note: Learning Fest](#): A research note detailing the educational impact and learning outcomes from the National Learning Fest.
+
+🔗 [Read More](https://ewutc.org/updates/activity)
 
 ### Activity Updates
 <small>Last updated: 2026-06-26T02:47:00+06:00</small>
@@ -151,7 +152,9 @@ A focused summary of recent club activity, online stories, and program updates t
 
 - [Campus Workshop Recap](#): Summary of the latest IoT and cybersecurity workshop outcomes, including participant insights and project showcases.
 - [Program Launch Announcement](#): Announcement of a new mentoring program designed to support students preparing for telecom and IT internships.
-- [Student Showcase Highlights](#): Highlights from recent student project presentations and collaborative learning sessions with industry reviewers. **+++ +++ +++>** 🔗 [More Updates](https://ewutc.org/updates/activity)
+- [Student Showcase Highlights](#): Highlights from recent student project presentations and collaborative learning sessions with industry reviewers.
+
+🔗 [More Updates](https://ewutc.org/updates/activity)
 
 ### Social Updates
 
@@ -247,8 +250,6 @@ A visual snapshot of our journey, events, and community moments that define EWUT
 </tr>
 </table>
 
-<a id="executive-committee"></a>
-
 ## Executive Committee
 
 The Executive Committee stewards the club's strategic direction, sustains institutional continuity, and upholds the standards of academic and professional excellence that define EWUTC's identity.
@@ -268,10 +269,9 @@ The 18th Executive Committee carries forward a tradition of principled student-l
 
 <div align="center">
 
-<table border="1" cellspacing="0" cellpadding="10" width="100%">
+<table align="center" border="1" cellspacing="0" cellpadding="10" width="100%">
 <tr>
-<td align="center" width="25%"></td>
-<td align="center" width="25%">
+<td align="center" width="50%">
 <img src="https://i.pravatar.cc/140?img=65" width="120" alt="President portrait"><br>
 <strong>Kazi Raianul Haque</strong><br>
 <img alt="EWUTC - President" src="https://img.shields.io/badge/EWUTC%20-%20President-0f3b66?style=flat" /><br>
@@ -280,7 +280,7 @@ The 18th Executive Committee carries forward a tradition of principled student-l
           </a> &nbsp; <a href="https://linkedin.com" aria-label="LinkedIn">
             <svg width="16" height="16" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid" viewBox="0 0 256 256"><path d="M218.123 218.127h-37.931v-59.403c0-14.165-.253-32.4-19.728-32.4-19.756 0-22.779 15.434-22.779 31.369v60.43h-37.93V95.967h36.413v16.694h.51a39.907 39.907 0 0 1 35.928-19.733c38.445 0 45.533 25.288 45.533 58.186l-.016 67.013ZM56.955 79.27c-12.157.002-22.014-9.852-22.016-22.009-.002-12.157 9.851-22.014 22.008-22.016 12.157-.003 22.014 9.851 22.016 22.008A22.013 22.013 0 0 1 56.955 79.27m18.966 138.858H37.95V95.967h37.97v122.16ZM237.033.018H18.89C8.58-.098.125 8.161-.001 18.471v219.053c.122 10.315 8.576 18.582 18.89 18.474h218.144c10.336.128 18.823-8.139 18.966-18.474V18.454c-.147-10.33-8.635-18.588-18.966-18.453" fill="#2563eb"/></svg></a>
 </td>
-<td align="center" width="25%">
+<td align="center" width="50%">
 <img src="https://i.pravatar.cc/140?img=66" width="120" alt="Vice President portrait"><br>
 <strong>MD Tarek Aziz Leyon</strong><br>
 <img alt="EWUTC - Vice President" src="https://img.shields.io/badge/EWUTC%20-%20Vice%20President-0f3b66?style=flat" /><br>
@@ -289,14 +289,12 @@ The 18th Executive Committee carries forward a tradition of principled student-l
           </a> &nbsp; <a href="https://linkedin.com" aria-label="LinkedIn">
             <svg width="16" height="16" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid" viewBox="0 0 256 256"><path d="M218.123 218.127h-37.931v-59.403c0-14.165-.253-32.4-19.728-32.4-19.756 0-22.779 15.434-22.779 31.369v60.43h-37.93V95.967h36.413v16.694h.51a39.907 39.907 0 0 1 35.928-19.733c38.445 0 45.533 25.288 45.533 58.186l-.016 67.013ZM56.955 79.27c-12.157.002-22.014-9.852-22.016-22.009-.002-12.157 9.851-22.014 22.008-22.016 12.157-.003 22.014 9.851 22.016 22.008A22.013 22.013 0 0 1 56.955 79.27m18.966 138.858H37.95V95.967h37.97v122.16ZM237.033.018H18.89C8.58-.098.125 8.161-.001 18.471v219.053c.122 10.315 8.576 18.582 18.89 18.474h218.144c10.336.128 18.823-8.139 18.966-18.474V18.454c-.147-10.33-8.635-18.588-18.966-18.453" fill="#2563eb"/></svg></a>
 </td>
-<td align="center" width="25%"></td>
 </tr>
 </table>
 
-<table border="1" cellspacing="0" cellpadding="10" width="100%">
+<table align="center" border="1" cellspacing="0" cellpadding="10" width="100%">
 <tr>
-<td align="center" width="20%"></td>
-<td align="center" width="20%">
+<td align="center" width="33.33%">
 <img src="https://i.pravatar.cc/140?img=67" width="120" alt="General Secretary portrait"><br>
 <strong>Saima Akter Tisha</strong><br>
 <img alt="EWUTC - General Secretary" src="https://img.shields.io/badge/EWUTC%20-%20General%20Secretary-0f3b66?style=flat" /><br>
@@ -305,7 +303,7 @@ The 18th Executive Committee carries forward a tradition of principled student-l
           </a> &nbsp; <a href="https://linkedin.com" aria-label="LinkedIn">
             <svg width="16" height="16" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid" viewBox="0 0 256 256"><path d="M218.123 218.127h-37.931v-59.403c0-14.165-.253-32.4-19.728-32.4-19.756 0-22.779 15.434-22.779 31.369v60.43h-37.93V95.967h36.413v16.694h.51a39.907 39.907 0 0 1 35.928-19.733c38.445 0 45.533 25.288 45.533 58.186l-.016 67.013ZM56.955 79.27c-12.157.002-22.014-9.852-22.016-22.009-.002-12.157 9.851-22.014 22.008-22.016 12.157-.003 22.014 9.851 22.016 22.008A22.013 22.013 0 0 1 56.955 79.27m18.966 138.858H37.95V95.967h37.97v122.16ZM237.033.018H18.89C8.58-.098.125 8.161-.001 18.471v219.053c.122 10.315 8.576 18.582 18.89 18.474h218.144c10.336.128 18.823-8.139 18.966-18.474V18.454c-.147-10.33-8.635-18.588-18.966-18.453" fill="#2563eb"/></svg></a>
 </td>
-<td align="center" width="20%">
+<td align="center" width="33.33%">
 <img src="https://i.pravatar.cc/140?img=68" width="120" alt="Treasurer portrait"><br>
 <strong>Mahamudul Hasan Monem</strong><br>
 <img alt="EWUTC - Treasurer" src="https://img.shields.io/badge/EWUTC%20-%20Treasurer-0f3b66?style=flat" /><br>
@@ -314,7 +312,7 @@ The 18th Executive Committee carries forward a tradition of principled student-l
           </a> &nbsp; <a href="https://linkedin.com" aria-label="LinkedIn">
             <svg width="16" height="16" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid" viewBox="0 0 256 256"><path d="M218.123 218.127h-37.931v-59.403c0-14.165-.253-32.4-19.728-32.4-19.756 0-22.779 15.434-22.779 31.369v60.43h-37.93V95.967h36.413v16.694h.51a39.907 39.907 0 0 1 35.928-19.733c38.445 0 45.533 25.288 45.533 58.186l-.016 67.013ZM56.955 79.27c-12.157.002-22.014-9.852-22.016-22.009-.002-12.157 9.851-22.014 22.008-22.016 12.157-.003 22.014 9.851 22.016 22.008A22.013 22.013 0 0 1 56.955 79.27m18.966 138.858H37.95V95.967h37.97v122.16ZM237.033.018H18.89C8.58-.098.125 8.161-.001 18.471v219.053c.122 10.315 8.576 18.582 18.89 18.474h218.144c10.336.128 18.823-8.139 18.966-18.474V18.454c-.147-10.33-8.635-18.588-18.966-18.453" fill="#2563eb"/></svg></a>
 </td>
-<td align="center" width="20%">
+<td align="center" width="33.33%">
 <img src="https://i.pravatar.cc/140?img=69" width="120" alt="Joint Secretary portrait"><br>
 <strong>Fatiha Arbi Sinthia</strong><br>
 <img alt="EWUTC - Joint Secretary" src="https://img.shields.io/badge/EWUTC%20-%20Joint%20Secretary-0f3b66?style=flat" /><br>
@@ -323,7 +321,6 @@ The 18th Executive Committee carries forward a tradition of principled student-l
           </a> &nbsp; <a href="https://linkedin.com" aria-label="LinkedIn">
             <svg width="16" height="16" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid" viewBox="0 0 256 256"><path d="M218.123 218.127h-37.931v-59.403c0-14.165-.253-32.4-19.728-32.4-19.756 0-22.779 15.434-22.779 31.369v60.43h-37.93V95.967h36.413v16.694h.51a39.907 39.907 0 0 1 35.928-19.733c38.445 0 45.533 25.288 45.533 58.186l-.016 67.013ZM56.955 79.27c-12.157.002-22.014-9.852-22.016-22.009-.002-12.157 9.851-22.014 22.008-22.016 12.157-.003 22.014 9.851 22.016 22.008A22.013 22.013 0 0 1 56.955 79.27m18.966 138.858H37.95V95.967h37.97v122.16ZM237.033.018H18.89C8.58-.098.125 8.161-.001 18.471v219.053c.122 10.315 8.576 18.582 18.89 18.474h218.144c10.336.128 18.823-8.139 18.966-18.474V18.454c-.147-10.33-8.635-18.588-18.966-18.453" fill="#2563eb"/></svg></a>
 </td>
-<td align="center" width="20%"></td>
 </tr>
 </table>
 
@@ -419,10 +416,9 @@ The following records preserve the prior two executive committees as a reference
 
 <div align="center">
 
-<table border="1" cellspacing="0" cellpadding="10" width="100%">
+<table align="center" border="1" cellspacing="0" cellpadding="10" width="100%">
 <tr>
-<td align="center" width="25%"></td>
-<td align="center" width="25%">
+<td align="center" width="100%">
 <img src="https://i.pravatar.cc/140?img=65" width="120" alt="President portrait"><br>
 <strong>Kazi Raianul Haque</strong><br>
 <img alt="EWUTC - President (17th)" src="https://img.shields.io/badge/EWUTC%20-%20President%20(17th)-0f3b66?style=flat" /><br>
@@ -431,7 +427,6 @@ The following records preserve the prior two executive committees as a reference
           </a> &nbsp; <a href="https://linkedin.com" aria-label="LinkedIn">
             <svg width="16" height="16" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid" viewBox="0 0 256 256"><path d="M218.123 218.127h-37.931v-59.403c0-14.165-.253-32.4-19.728-32.4-19.756 0-22.779 15.434-22.779 31.369v60.43h-37.93V95.967h36.413v16.694h.51a39.907 39.907 0 0 1 35.928-19.733c38.445 0 45.533 25.288 45.533 58.186l-.016 67.013ZM56.955 79.27c-12.157.002-22.014-9.852-22.016-22.009-.002-12.157 9.851-22.014 22.008-22.016 12.157-.003 22.014 9.851 22.016 22.008A22.013 22.013 0 0 1 56.955 79.27m18.966 138.858H37.95V95.967h37.97v122.16ZM237.033.018H18.89C8.58-.098.125 8.161-.001 18.471v219.053c.122 10.315 8.576 18.582 18.89 18.474h218.144c10.336.128 18.823-8.139 18.966-18.474V18.454c-.147-10.33-8.635-18.588-18.966-18.453" fill="#2563eb"/></svg></a>
 </td>
-<td align="center" width="25%"></td>
 </tr>
 </table>
 
@@ -448,19 +443,17 @@ The following records preserve the prior two executive committees as a reference
 
 <div align="center">
 
-<table border="1" cellspacing="0" cellpadding="10" width="100%">
+<table align="center" border="1" cellspacing="0" cellpadding="10" width="100%">
 <tr>
-<td align="center" width="25%"></td>
-<td align="center" width="25%">
+<td align="center" width="100%">
 <img src="https://i.pravatar.cc/140?img=65" width="120" alt="President portrait"><br>
 <strong>Kazi Raianul Haque</strong><br>
-<img alt="EWUTC - President (16th)" src="https://img.shields.io/badge/EWUTC%20-%20%20President%20(16th)-0f3b66?style=flat" /><br>
+<img alt="EWUTC - President (16th)" src="https://img.shields.io/badge/EWUTC%20-%20President%20(16th)-0f3b66?style=flat" /><br>
 <a href="https://www.ewutc.com/profile/executive/18/" aria-label="Website"> <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#2563eb" d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM5.78 8.75a9.64 9.64 0 0 0 1.363 4.177c.255.426.542.832.857 1.215.245-.296.551-.705.857-1.215A9.64 9.64 0 0 0 10.22 8.75Zm4.44-1.5a9.64 9.64 0 0 0-1.363-4.177c-.307-.51-.612-.919-.857-1.215a9.927 9.927 0 0 0-.857 1.215A9.64 9.64 0 0 0 5.78 7.25Zm-5.944 1.5H1.543a6.507 6.507 0 0 0 4.666 5.5c-.123-.181-.24-.365-.352-.552-.715-1.192-1.437-2.874-1.581-4.948Zm-2.733-1.5h2.733c.144-2.074.866-3.756 1.58-4.948.12-.197.237-.381.353-.552a6.507 6.507 0 0 0-4.666 5.5Zm10.181 1.5c-.144 2.074-.866 3.756-1.58 4.948-.12.197-.237.381-.353.552a6.507 6.507 0 0 0 4.666-5.5Zm2.733-1.5a6.507 6.507 0 0 0-4.666-5.5c.123.181.24.365.353.552.714 1.192 1.436 2.874 1.58 4.948Z"></path></svg></a> &nbsp; <a href="mailto:executive@ewutc.com" aria-label="Email"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#2563eb" d="M1.75 2h12.5c.966 0 1.75.784 1.75 1.75v8.5A1.75 1.75 0 0 1 14.25 14H1.75A1.75 1.75 0 0 1 0 12.25v-8.5C0 2.784.784 2 1.75 2ZM1.5 12.251c0 .138.112.25.25.25h12.5a.25.25 0 0 0 .25-.25V5.809L8.38 9.397a.75.75 0 0 1-.76 0L1.5 5.809v6.442Zm13-8.181v-.32a.25.25 0 0 0-.25-.25H1.75a.25.25 0 0 0-.25.25v.32L8 7.88Z"></path></svg></a> &nbsp; <a href="https://facebook.com" aria-label="Facebook">
             <svg role="img" viewBox="0 0 24 24" height="16" width="16" xmlns="http://www.w3.org/2000/svg"><path fill="#2563eb" d="M9.101 23.691v-7.98H6.627v-3.667h2.474v-1.58c0-4.085 1.848-5.978 5.858-5.978.401 0 .955.042 1.468.103a8.68 8.68 0 0 1 1.141.195v3.325a8.623 8.623 0 0 0-.653-.036 26.805 26.805 0 0 0-.733-.009c-.707 0-1.259.096-1.675.309a1.686 1.686 0 0 0-.679.622c-.258.42-.374.995-.374 1.752v1.297h3.919l-.386 2.103-.287 1.564h-3.246v8.245C19.396 23.238 24 18.179 24 12.044c0-6.627-5.373-12-12-12s-12 5.373-12 12c0 5.628 3.874 10.35 9.101 11.647Z"/></svg>
           </a> &nbsp; <a href="https://linkedin.com" aria-label="LinkedIn">
             <svg width="16" height="16" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid" viewBox="0 0 256 256"><path d="M218.123 218.127h-37.931v-59.403c0-14.165-.253-32.4-19.728-32.4-19.756 0-22.779 15.434-22.779 31.369v60.43h-37.93V95.967h36.413v16.694h.51a39.907 39.907 0 0 1 35.928-19.733c38.445 0 45.533 25.288 45.533 58.186l-.016 67.013ZM56.955 79.27c-12.157.002-22.014-9.852-22.016-22.009-.002-12.157 9.851-22.014 22.008-22.016 12.157-.003 22.014 9.851 22.016 22.008A22.013 22.013 0 0 1 56.955 79.27m18.966 138.858H37.95V95.967h37.97v122.16ZM237.033.018H18.89C8.58-.098.125 8.161-.001 18.471v219.053c.122 10.315 8.576 18.582 18.89 18.474h218.144c10.336.128 18.823-8.139 18.966-18.474V18.454c-.147-10.33-8.635-18.588-18.966-18.453" fill="#2563eb"/></svg></a>
 </td>
-<td align="center" width="25%"></td>
 </tr>
 </table>
 
@@ -477,10 +470,9 @@ EWUTC's Faculty Moderators are academic members of East West University who serv
 
 <div align="center">
 
-<table border="1" cellspacing="0" cellpadding="10" width="100%">
+<table align="center" border="1" cellspacing="0" cellpadding="10" width="100%">
 <tr>
-<td align="center" width="25%"></td>
-<td align="center" width="25%">
+<td align="center" width="50%">
   <img src="https://i.pravatar.cc/140?img=24" width="120" alt="Md. Khalid Mahbub Khan portrait"><br>
   <strong>Md. Khalid Mahbub Khan</strong><br>
   <font size="2">Senior Lecturer<br>Department of Computer Science & Engineering</font><br>
@@ -488,7 +480,7 @@ EWUTC's Faculty Moderators are academic members of East West University who serv
   2023–Present<br>
   <a href="https://www.ewu.edu" aria-label="Website"> <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#2563eb" d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM5.78 8.75a9.64 9.64 0 0 0 1.363 4.177c.255.426.542.832.857 1.215.245-.296.551-.705.857-1.215A9.64 9.64 0 0 0 10.22 8.75Zm4.44-1.5a9.64 9.64 0 0 0-1.363-4.177c-.307-.51-.612-.919-.857-1.215a9.927 9.927 0 0 0-.857 1.215A9.64 9.64 0 0 0 5.78 7.25Zm-5.944 1.5H1.543a6.507 6.507 0 0 0 4.666 5.5c-.123-.181-.24-.365-.352-.552-.715-1.192-1.437-2.874-1.581-4.948Zm-2.733-1.5h2.733c.144-2.074.866-3.756 1.58-4.948.12-.197.237-.381.353-.552a6.507 6.507 0 0 0-4.666 5.5Zm10.181 1.5c-.144 2.074-.866 3.756-1.58 4.948-.12.197-.237.381-.353.552a6.507 6.507 0 0 0 4.666-5.5Zm2.733-1.5a6.507 6.507 0 0 0-4.666-5.5c.123.181.24.365.353.552.714 1.192 1.436 2.874 1.58 4.948Z"></path></svg></a> &nbsp; <a href="mailto:moderator@ewutc.com" aria-label="Email"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#2563eb" d="M1.75 2h12.5c.966 0 1.75.784 1.75 1.75v8.5A1.75 1.75 0 0 1 14.25 14H1.75A1.75 1.75 0 0 1 0 12.25v-8.5C0 2.784.784 2 1.75 2ZM1.5 12.251c0 .138.112.25.25.25h12.5a.25.25 0 0 0 .25-.25V5.809L8.38 9.397a.75.75 0 0 1-.76 0L1.5 5.809v6.442Zm13-8.181v-.32a.25.25 0 0 0-.25-.25H1.75a.25.25 0 0 0-.25.25v.32L8 7.88Z"></path></svg></a>
 </td>
-<td align="center" width="25%">
+<td align="center" width="50%">
   <img src="https://i.pravatar.cc/140?img=20" width="120" alt="Dr. Shamim H Ripon portrait"><br>
   <strong>Dr. Shamim H Ripon</strong><br>
   <font size="2">Professor<br>Department of Computer Science & Engineering</font><br>
@@ -496,7 +488,6 @@ EWUTC's Faculty Moderators are academic members of East West University who serv
   Present<br>
   <a href="https://www.ewu.edu" aria-label="Website"> <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#2563eb" d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM5.78 8.75a9.64 9.64 0 0 0 1.363 4.177c.255.426.542.832.857 1.215.245-.296.551-.705.857-1.215A9.64 9.64 0 0 0 10.22 8.75Zm4.44-1.5a9.64 9.64 0 0 0-1.363-4.177c-.307-.51-.612-.919-.857-1.215a9.927 9.927 0 0 0-.857 1.215A9.64 9.64 0 0 0 5.78 7.25Zm-5.944 1.5H1.543a6.507 6.507 0 0 0 4.666 5.5c-.123-.181-.24-.365-.352-.552-.715-1.192-1.437-2.874-1.581-4.948Zm-2.733-1.5h2.733c.144-2.074.866-3.756 1.58-4.948.12-.197.237-.381.353-.552a6.507 6.507 0 0 0-4.666 5.5Zm10.181 1.5c-.144 2.074-.866 3.756-1.58 4.948-.12.197-.237.381-.353.552a6.507 6.507 0 0 0 4.666-5.5Zm2.733-1.5a6.507 6.507 0 0 0-4.666-5.5c.123.181.24.365.353.552.714 1.192 1.436 2.874 1.58 4.948Z"></path></svg></a> &nbsp; <a href="mailto:moderator@ewutc.com" aria-label="Email"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#2563eb" d="M1.75 2h12.5c.966 0 1.75.784 1.75 1.75v8.5A1.75 1.75 0 0 1 14.25 14H1.75A1.75 1.75 0 0 1 0 12.25v-8.5C0 2.784.784 2 1.75 2ZM1.5 12.251c0 .138.112.25.25.25h12.5a.25.25 0 0 0 .25-.25V5.809L8.38 9.397a.75.75 0 0 1-.76 0L1.5 5.809v6.442Zm13-8.181v-.32a.25.25 0 0 0-.25-.25H1.75a.25.25 0 0 0-.25.25v.32L8 7.88Z"></path></svg></a>
 </td>
-<td align="center" width="25%"></td>
 </tr>
 </table>
 
@@ -506,8 +497,6 @@ EWUTC's Faculty Moderators are academic members of East West University who serv
 
 The following honours the faculty members who served as Moderator in prior terms, whose dedication and guidance were instrumental in shaping the club's culture and institutional standing.
 
----
-
 <details>
 <summary><strong>View former moderators</strong></summary>
 
@@ -515,9 +504,9 @@ The following honours the faculty members who served as Moderator in prior terms
 
 <div align="center">
 
-<table border="1" cellspacing="0" cellpadding="10" width="100%">
+<table align="center" border="1" cellspacing="0" cellpadding="10" width="40%">
 <tr>
-<td align="center" width="25%">
+<td align="center" width="100%">
   <img src="https://i.pravatar.cc/140?img=25" width="120" alt="S. M. Raiyan Chowdhury portrait"><br>
   <strong>S. M. Raiyan Chowdhury</strong><br>
   <font size="2">Lecturer<br>Department of Electrical and Electronic Engineering</font><br>
@@ -532,8 +521,6 @@ The following honours the faculty members who served as Moderator in prior terms
 </details>
 
 ---
-
-<a id="community"></a>
 
 ## Community
 
@@ -555,8 +542,6 @@ Engagement methods include:
 
 Members can join our online member community for collaboration, event coordination, and member-only updates: [Member Community](https://ewutc.org/community).
 
-<a id="follow"></a>
-
 ## Follow
 
 Stay connected with EWUTC through our social channels and announcements.
@@ -566,8 +551,6 @@ Stay connected with EWUTC through our social channels and announcements.
 - **LinkedIn:** [East West University Telecommunications Club](https://linkedin.com/company/ewutc)
 - **YouTube:** [EWUTC Channel](https://youtube.com/ewutc)
 
-<a id="contact"></a>
-
 ## Contact
 
 For general inquiries, membership, or partnerships, reach out directly.
@@ -575,8 +558,6 @@ For general inquiries, membership, or partnerships, reach out directly.
 - **Email:** [contact@ewutc.org](mailto:contact@ewutc.org)
 - **Office:** East West University, Plot 7/A, Aftabuddin Ahmed Rd, Dhaka 1212
 - **Membership:** [ewutc.org/join](https://ewutc.org/join)
-
-<a id="join-us"></a>
 
 ## Join Us
 
