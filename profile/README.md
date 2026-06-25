@@ -506,6 +506,8 @@ EWUTC's Faculty Moderators are academic members of East West University who serv
 
 The following honours the faculty members who served as Moderator in prior terms, whose dedication and guidance were instrumental in shaping the club's culture and institutional standing.
 
+---
+
 <details>
 <summary><strong>View former moderators</strong></summary>
 
