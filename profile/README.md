@@ -29,7 +29,6 @@ Core activities include:
 - seminars on **career buildup**, **digital transformation / digital world**, and **telecommunications innovation**
 - expert sessions led by academic and industry professionals
 
----
 
 ## About
 
@@ -43,8 +42,6 @@ The club supports:
 - applied learning through workshops, seminars, and competitions
 
 Programs are designed to align student learning with current technology trends and professional expectations.
-
----
 
 <a id="upcoming-events"></a>
 
@@ -104,13 +101,17 @@ This portfolio is maintained to reflect the current program roadmap and planning
 </ul>
 </td>
 </tr>
+<tr>
+<td colspan="2" align="center">
+  <a href="https://ewutc.org/events"><small>Explore full schedule</small></a>
+</td>
+</tr>
+<tr>
+<td colspan="2" align="right">
+  <small>Last updated: 2026-06-26T02:47:00+06:00</small>
+</td>
+</tr>
 </table>
-
-For the full event roadmap and complete schedule, see [View all events](https://ewutc.org/events).
-
-> Event descriptions may be updated by GitHub Actions with current imagery, status, and registration details.
-
----
 
 <a id="signature-events"></a>
 
@@ -122,39 +123,11 @@ Since **2018**, EWUTC has delivered the National Entrepreneurship Summit as a pr
 
 ### Telco Warfare
 
-Telco Warfare has been held nationally since **2012** and internationally since **2017**.
-
-It remains EWUTC’s premier telecom and IT challenge series, hosting competitions in various sectors of IT and programming. The event successfully gathers almost 60 institutions and 2000+ participants from across the country to compete in different segments.
+Telco Warfare has been held nationally since **2012** and internationally since **2017**. It remains EWUTC’s premier telecom and IT challenge series, hosting competitions in various sectors of IT and programming. The event successfully gathers almost 60 institutions and 2000+ participants from across the country to compete in different segments.
 
 ### National Learning Fest (NLF)
 
 Introduced this year, National Learning Fest provides a practical learning platform for college and university students with applied workshops, career skills sessions, and technology tracks designed to strengthen academic and professional readiness. It brings a unique opportunity for students to learn and gain hands-on experience on topics highly relevant to the job market and university life.
-
----
-
-<a id="community"></a>
-
-## Community
-
-EWUTC serves students and early career professionals in telecommunications and IT.
-
-The community is structured to support:
-
-- telecom and IT students
-- learners of programming and information systems
-- aspiring entrepreneurs and innovators
-- individuals preparing for technology careers
-
-Engagement methods include:
-
-- workshops and laboratory sessions
-- seminars with academic and industry experts
-- competitions that emphasize learning and performance
-- collaborative projects and shared learning resources
-
-Members can join our online member community for collaboration, event coordination, and member-only updates: [Member Community](https://ewutc.org/community).
-
----
 
 <a id="updates"></a>
 
@@ -162,23 +135,25 @@ Members can join our online member community for collaboration, event coordinati
 
 Regular updates from EWUTC’s channels are organized with publications first, followed by activity summaries and social highlights.
 
-### Publications · [View all](https://ewutc.org/publications)
+### Publications
+<small>Last updated: 2026-06-26T02:47:00+06:00</small>
 
 Recent publications, research notes, and written insights produced by EWUTC members.
 
 - [Technical Brief: Telecom Trends](#): A technical brief on emerging telecom trends and applications for student researchers.
 - [Workshop Report](#): A written recap of the latest workshop sessions, including methodologies, outcomes, and participant insights.
-- [Research Note: Learning Fest](#): A research note detailing the educational impact and learning outcomes from the National Learning Fest.
+- [Research Note: Learning Fest](#): A research note detailing the educational impact and learning outcomes from the National Learning Fest. **+++ +++ +++>** 🔗 [Read More](https://ewutc.org/updates/activity)
 
-### Activity Updates · [View all](https://ewutc.org/updates/activity)
+### Activity Updates
+<small>Last updated: 2026-06-26T02:47:00+06:00</small>
 
 A focused summary of recent club activity, online stories, and program updates that keep the audience informed.
 
 - [Campus Workshop Recap](#): Summary of the latest IoT and cybersecurity workshop outcomes, including participant insights and project showcases.
 - [Program Launch Announcement](#): Announcement of a new mentoring program designed to support students preparing for telecom and IT internships.
-- [Student Showcase Highlights](#): Highlights from recent student project presentations and collaborative learning sessions with industry reviewers.
+- [Student Showcase Highlights](#): Highlights from recent student project presentations and collaborative learning sessions with industry reviewers. **+++ +++ +++>** 🔗 [More Updates](https://ewutc.org/updates/activity)
 
-### Social Updates · [View all](https://ewutc.org/updates/social)
+### Social Updates
 
 Recent social channel activity, announcements, and community highlights from EWUTC’s platforms.
 
@@ -210,36 +185,67 @@ A profile of top performers from the latest Telco Warfare challenge, celebrating
 A social summary of recent member feedback, collaboration posts, and cross-university participation updates.
 </td>
 </tr>
-</table>
-
----
-
-## Latest Image Gallery
-
-A rotating gallery of recent EWUTC moments, automatically refreshed via GitHub Actions.
-
-<table width="100%" cellspacing="0" cellpadding="8">
 <tr>
-<td align="center" width="25%">
-<img src="assets/gallery/image-1.jpg" width="100" alt="Gallery photo 1"><br>
-<b>Workshop highlight</b>
+<td colspan="2" align="center">
+<a href="https://ewutc.org/gallery" target="_blank">
+    <small>Load More</small>
+  </a>
 </td>
-<td align="center" width="25%">
-<img src="assets/gallery/image-2.jpg" width="100" alt="Gallery photo 2"><br>
-<b>Event launch</b>
-</td>
-<td align="center" width="25%">
-<img src="assets/gallery/image-3.jpg" width="100" alt="Gallery photo 3"><br>
-<b>Team collaboration</b>
-</td>
-<td align="center" width="25%">
-<img src="assets/gallery/image-4.jpg" width="100" alt="Gallery photo 4"><br>
-<b>Member showcase</b>
+</tr>
+<tr>
+<td colspan="2" align="right">
+  <small>Last updated: 2026-06-26T02:47:00+06:00</small>
 </td>
 </tr>
 </table>
 
----
+### Glimpses of EWUTC
+
+A visual snapshot of our journey, events, and community moments that define EWUTC.
+
+<table border="1" width="100%" cellspacing="0" cellpadding="8">
+<tr>
+<td align="center" width="25%">
+<img src="https://picsum.photos/seed/ewutc1/300/300" width="140" alt="EWUTC gallery image 1"><br/>
+</td>
+<td align="center" width="25%">
+<img src="https://picsum.photos/seed/ewutc2/300/300" width="140" alt="EWUTC gallery image 2"><br/>
+</td>
+<td align="center" width="25%">
+<img src="https://picsum.photos/seed/ewutc3/300/300" width="140" alt="EWUTC gallery image 3"><br/>
+</td>
+<td align="center" width="25%">
+<img src="https://picsum.photos/seed/ewutc4/300/300" width="140" alt="EWUTC gallery image 4"><br/>
+</td>
+</tr>
+
+<tr>
+<td align="center" width="25%">
+<img src="https://picsum.photos/seed/ewutc5/300/300" width="140" alt="EWUTC gallery image 5"><br/>
+</td>
+<td align="center" width="25%">
+<img src="https://picsum.photos/seed/ewutc6/300/300" width="140" alt="EWUTC gallery image 6"><br/>
+</td>
+<td align="center" width="25%">
+<img src="https://picsum.photos/seed/ewutc7/300/300" width="140" alt="EWUTC gallery image 7"><br/>
+</td>
+<td align="center" width="25%">
+<img src="https://picsum.photos/seed/ewutc8/300/300" width="140" alt="EWUTC gallery image 8"><br/>
+</td>
+</tr>
+<tr>
+<td colspan="4" align="center">
+<a href="https://ewutc.org/gallery" target="_blank">
+    <small>Enjoy More Moments</small>
+  </a>
+</td>
+</tr>
+<tr>
+<td colspan="4" align="right">
+  <small>Last updated: 2026-06-26T02:47:00+06:00</small>
+</td>
+</tr>
+</table>
 
 <a id="executive-panel"></a>
 
@@ -521,6 +527,30 @@ The following records preserve the prior moderators of EWUTC who guided the club
 
 ---
 
+<a id="community"></a>
+
+## Community
+
+EWUTC serves students and early career professionals in telecommunications and IT.
+
+The community is structured to support:
+
+- telecom and IT students
+- learners of programming and information systems
+- aspiring entrepreneurs and innovators
+- individuals preparing for technology careers
+
+Engagement methods include:
+
+- workshops and laboratory sessions
+- seminars with academic and industry experts
+- competitions that emphasize learning and performance
+- collaborative projects and shared learning resources
+
+Members can join our online member community for collaboration, event coordination, and member-only updates: [Member Community](https://ewutc.org/community).
+
+<a id="follow"></a>
+
 ## Follow
 
 Stay connected with EWUTC through our social channels and announcements.
@@ -529,8 +559,6 @@ Stay connected with EWUTC through our social channels and announcements.
 - **Facebook:** [EWUTC Official](https://facebook.com/ewutc_official)
 - **LinkedIn:** [East West University Telecommunications Club](https://linkedin.com/company/ewutc)
 - **YouTube:** [EWUTC Channel](https://youtube.com/ewutc)
-
----
 
 <a id="contact"></a>
 
@@ -541,8 +569,6 @@ For general inquiries, membership, or partnerships, reach out directly.
 - **Email:** [contact@ewutc.org](mailto:contact@ewutc.org)
 - **Office:** East West University, Plot 7/A, Aftabuddin Ahmed Rd, Dhaka 1212
 - **Membership:** [ewutc.org/join](https://ewutc.org/join)
-
----
 
 <a id="join-us"></a>
 
@@ -559,7 +585,9 @@ Contributions include:
 - providing mentorship and technical guidance
 - participating in competitions and educational activities
 
----
+<br/>
+<p align="center">~•~</p>
+<br/>
 
 <p align="center">
   <strong>East West University Telecommunications Club</strong><br/>
