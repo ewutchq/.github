@@ -5,7 +5,7 @@
   <a href="#about">About</a> •
   <a href="#upcoming-events">Upcoming Events</a> •
   <a href="#signature-events">Events</a> •
-  <a href="#executive-panel">Executive Leadership</a> •
+  <a href="#executive-committee">Executive Committee</a> •
   <a href="#moderators">Moderators</a> •
   <a href="#community">Community</a> •
   <a href="#updates">Updates</a> •
@@ -203,7 +203,7 @@ A social summary of recent member feedback, collaboration posts, and cross-unive
 
 A visual snapshot of our journey, events, and community moments that define EWUTC.
 
-<table border="1" width="100%" cellspacing="0" cellpadding="8">
+<table border="1" width="100%" cellspacing="0" cellpadding="10">
 <tr>
 <td align="center" width="25%">
 <img src="https://picsum.photos/seed/ewutc1/300/300" width="140" alt="EWUTC gallery image 1"><br/>
@@ -247,20 +247,24 @@ A visual snapshot of our journey, events, and community moments that define EWUT
 </tr>
 </table>
 
-<a id="executive-panel"></a>
+<a id="executive-committee"></a>
 
-## Executive Leadership
+## Executive Committee
 
-The Executive Leadership of East West University Telecommunications Club represents the club’s strategic stewardship, organizational continuity, and commitment to academic and professional excellence.
+The Executive Committee stewards the club's strategic direction, sustains institutional continuity, and upholds the standards of academic and professional excellence that define EWUTC's identity.
 
-The 18th Executive Panel continues EWUTC’s tradition of student-led governance while advancing initiatives that strengthen technical learning, leadership development, and institutional engagement.
+The 18th Executive Committee carries forward a tradition of principled student-led governance — advancing programs that deepen technical competency, cultivate leadership, and strengthen the club's engagement with the broader academic and professional community.
 
-<p align="center">
-  <img alt="EWUTC Executive Panel" src="https://img.shields.io/badge/EWUTC-18th%20Executive%20Panel-0f3b66?style=flat-square" />
-  <img alt="Leadership 2026 to 2027" src="https://img.shields.io/badge/2026%E2%80%932027-Leadership-1d4ed8?style=flat-square" />
-</p>
-
-<p align="center"><strong>East West University Telecommunications Club</strong></p>
+<div align="center">
+<table border="0" cellspacing="0" cellpadding="16" width="72%">
+<tr><td align="center" bgcolor="#0f3b66">
+<br/>
+<strong><font color="#ffffff" size="5">East West University Telecommunications Club</font></strong><br/>
+<font color="#93b8d8">— 18th Executive Committee · 2026–2027 —</font>
+<br/><br/>
+</td></tr>
+</table>
+</div>
 
 <div align="center">
 
@@ -324,7 +328,7 @@ The 18th Executive Panel continues EWUTC’s tradition of student-led governance
 </table>
 
 <details>
-<summary><strong>View additional executive members</strong></summary>
+<summary><strong>View all committee members</strong></summary>
 
 <br>
 
@@ -402,14 +406,14 @@ The 18th Executive Panel continues EWUTC’s tradition of student-led governance
 
 </div>
 
-### Previous Executive Panels
+### Previous Executive Committees
 
-The following records preserve the prior two executive panels as a reference for leadership continuity, institutional memory, and organizational progression.
+The following records preserve the prior two executive committees as a reference for leadership continuity, institutional memory, and organizational progression.
 
 ---
 
 <details>
-<summary><strong>17th Executive Panel (2025–2026)</strong></summary>
+<summary><strong>17th Executive Committee (2025–2026)</strong></summary>
 
 <br>
 
@@ -438,7 +442,7 @@ The following records preserve the prior two executive panels as a reference for
 ---
 
 <details>
-<summary><strong>16th Executive Panel (2024–2025)</strong></summary>
+<summary><strong>16th Executive Committee (2024–2025)</strong></summary>
 
 <br>
 
@@ -469,7 +473,7 @@ The following records preserve the prior two executive panels as a reference for
 
 ## Club Moderators
 
-The Club Moderators of East West University Telecommunications Club provide vital oversight, guidance, and mentorship to ensure academic alignment, professional excellence, and university compliance. From policy enforcement, financial supervision, and strategic planning to event approval and conflict resolution, our moderators maintain the standards, discipline, and organizational integrity of the club.
+EWUTC's Faculty Moderators are academic members of East West University who serve as the institutional pillars of the club. They provide scholarly oversight, strategic counsel, and mentorship that anchors the club's activities within the university's academic framework. Their guidance ensures that every initiative — from large-scale national events to applied workshop programs — upholds institutional standards and genuinely advances the educational interests of students.
 
 <div align="center">
 
@@ -498,12 +502,12 @@ The Club Moderators of East West University Telecommunications Club provide vita
 
 </div>
 
-### Previous Moderators
+### Former Moderators
 
-The following records preserve the prior moderators of EWUTC who guided the club through past operational cycles and supported its growth.
+The following honours the faculty members who served as Moderator in prior terms, whose dedication and guidance were instrumental in shaping the club's culture and institutional standing.
 
 <details>
-<summary><strong>View previous moderators</strong></summary>
+<summary><strong>View former moderators</strong></summary>
 
 <br>
 
