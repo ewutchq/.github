@@ -208,7 +208,7 @@ A visual snapshot of our journey, events, and community moments that define EWUT
 
 <table border="1" width="100%" cellspacing="0" cellpadding="10">
 <tr>
-<td align="center">
+<td align="center" width="300">
 <img src="https://picsum.photos/seed/ewutc1/300/300" width="140" alt="EWUTC gallery image 1">
 </td>
 <td align="center">
@@ -223,7 +223,7 @@ A visual snapshot of our journey, events, and community moments that define EWUT
 </tr>
 
 <tr>
-<td align="center">
+<td align="center" width="300">
 <img src="https://picsum.photos/seed/ewutc5/300/300" width="140" alt="EWUTC gallery image 5">
 </td>
 <td align="center">
