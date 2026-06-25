@@ -165,7 +165,7 @@ Recent social channel activity, announcements, and community highlights from EWU
 <td width="120" valign="top">
 <img src="https://github.com/user-attachments/assets/e0606423-d145-48ee-95a9-b33cfd817f52" width="100" alt="Social media update cover">
 </td>
-<td valign="top">
+<td width="1080" valign="top">
 <a href="#">🔗 Event Countdown Post</a><br />
 A countdown update for the upcoming National Entrepreneurship Summit, driving registration and speaker previews.
 </td>
@@ -174,7 +174,7 @@ A countdown update for the upcoming National Entrepreneurship Summit, driving re
 <td width="120" valign="top">
 <img src="https://github.com/user-attachments/assets/e0606423-d145-48ee-95a9-b33cfd817f52" width="100" alt="Social media update cover">
 </td>
-<td valign="top">
+<td width="1080" valign="top">
 <a href="#">🔗 Champion Spotlight</a><br />
 A profile of top performers from the latest Telco Warfare challenge, celebrating teamwork and technical excellence.
 </td>
@@ -183,7 +183,7 @@ A profile of top performers from the latest Telco Warfare challenge, celebrating
 <td width="120" valign="top">
 <img src="https://github.com/user-attachments/assets/e0606423-d145-48ee-95a9-b33cfd817f52" width="100" alt="Social media update cover">
 </td>
-<td valign="top">
+<td width="1080" valign="top">
 <a href="#">🔗 Community Engagement Roundup</a><br />
 A social summary of recent member feedback, collaboration posts, and cross-university participation updates.
 </td>
