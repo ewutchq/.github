@@ -209,42 +209,42 @@ A visual snapshot of our journey, events, and community moments that define EWUT
 <table border="1" width="100%" cellspacing="0" cellpadding="10">
 <tr>
 <td align="center" width="25%">
-<img src="https://picsum.photos/seed/ewutc1/300/300" width="140" alt="EWUTC gallery image 1"><br/>
+<img src="https://picsum.photos/seed/ewutc1/300/300" width="140" alt="EWUTC gallery image 1">
 </td>
 <td align="center" width="25%">
-<img src="https://picsum.photos/seed/ewutc2/300/300" width="140" alt="EWUTC gallery image 2"><br/>
+<img src="https://picsum.photos/seed/ewutc2/300/300" width="140" alt="EWUTC gallery image 2">
 </td>
 <td align="center" width="25%">
-<img src="https://picsum.photos/seed/ewutc3/300/300" width="140" alt="EWUTC gallery image 3"><br/>
+<img src="https://picsum.photos/seed/ewutc3/300/300" width="140" alt="EWUTC gallery image 3">
 </td>
 <td align="center" width="25%">
-<img src="https://picsum.photos/seed/ewutc4/300/300" width="140" alt="EWUTC gallery image 4"><br/>
+<img src="https://picsum.photos/seed/ewutc4/300/300" width="140" alt="EWUTC gallery image 4">
 </td>
 </tr>
 
 <tr>
 <td align="center" width="25%">
-<img src="https://picsum.photos/seed/ewutc5/300/300" width="140" alt="EWUTC gallery image 5"><br/>
+<img src="https://picsum.photos/seed/ewutc5/300/300" width="140" alt="EWUTC gallery image 5">
 </td>
 <td align="center" width="25%">
-<img src="https://picsum.photos/seed/ewutc6/300/300" width="140" alt="EWUTC gallery image 6"><br/>
+<img src="https://picsum.photos/seed/ewutc6/300/300" width="140" alt="EWUTC gallery image 6">
 </td>
 <td align="center" width="25%">
-<img src="https://picsum.photos/seed/ewutc7/300/300" width="140" alt="EWUTC gallery image 7"><br/>
+<img src="https://picsum.photos/seed/ewutc7/300/300" width="140" alt="EWUTC gallery image 7">
 </td>
 <td align="center" width="25%">
-<img src="https://picsum.photos/seed/ewutc8/300/300" width="140" alt="EWUTC gallery image 8"><br/>
+<img src="https://picsum.photos/seed/ewutc8/300/300" width="140" alt="EWUTC gallery image 8">
 </td>
 </tr>
 <tr>
-<td colspan="4" align="center">
+<td colspan="4" align="center" width="100%">
 <a href="https://ewutc.org/gallery" target="_blank">
     <small>Enjoy More Moments</small>
   </a>
 </td>
 </tr>
 <tr>
-<td colspan="4" align="right">
+<td colspan="4" align="right" width="100%">
   <small>Last updated: 2026-06-26T02:47:00+06:00</small>
 </td>
 </tr>
