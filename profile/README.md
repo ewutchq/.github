@@ -267,7 +267,7 @@ The 18th Executive Committee carries forward a tradition of principled student-l
 </table>
 </div>
 
-<div align="center">
+<div align="center" width="100%">
 
 <table align="center" border="1" cellspacing="0" cellpadding="10" width="100%">
 <tr>
