@@ -257,7 +257,7 @@ The Executive Committee stewards the club's strategic direction, sustains instit
 The 18th Executive Committee carries forward a tradition of principled student-led governance — advancing programs that deepen technical competency, cultivate leadership, and strengthen the club's engagement with the broader academic and professional community.
 
 <div align="center">
-<table border="0" cellspacing="0" cellpadding="16" width="72%">
+<table border="1" cellspacing="0" cellpadding="16" width="72%">
 <tr><td align="center" bgcolor="#0f3b66">
 <br/>
 <strong><font color="#ffffff" size="5">East West University Telecommunications Club</font></strong><br/>
@@ -269,7 +269,7 @@ The 18th Executive Committee carries forward a tradition of principled student-l
 
 <div align="center">
 
-<table border="1" cellspacing="0" cellpadding="10">
+<table border="1" cellspacing="0" cellpadding="10" width="100%">
 <tr>
 <td align="center" width="50%">
 <img src="https://i.pravatar.cc/140?img=65" width="120" alt="President portrait"><br/>
@@ -288,7 +288,7 @@ The 18th Executive Committee carries forward a tradition of principled student-l
 </tr>
 </table>
 
-<table border="1" cellspacing="0" cellpadding="10">
+<table border="1" cellspacing="0" cellpadding="10" width="100%">
 <tr>
 <td align="center" width="33.33%">
 <img src="https://i.pravatar.cc/140?img=67" width="120" alt="General Secretary portrait"><br/>
@@ -320,7 +320,7 @@ The 18th Executive Committee carries forward a tradition of principled student-l
 
 <br/>
 
-<table border="1" cellspacing="0" cellpadding="10">
+<table border="1" cellspacing="0" cellpadding="10" width="100%">
 <tr>
 <td align="center" width="25%"><img src="https://i.pravatar.cc/140?img=70" width="120" alt="Event Coordinator portrait"><br/><strong>Ekramul Hassan Ratul</strong><br/><img alt="EWUTC - Event Coordinator" src="https://img.shields.io/badge/EWUTC%20-%20Event%20Coordinator-0f3b66?style=flat" /><br/>
 <a href="https://www.ewutc.com/profile/executive/18/" aria-label="Website"><img src="https://github.com/user-attachments/assets/b622ae9f-c216-4745-bf76-ab94f1fc7c69" width="16" height="16" alt="website" /></a> &nbsp; <a href="mailto:executive@ewutc.com" aria-label="Email"><img src="https://github.com/user-attachments/assets/d2d8f691-661b-4109-ad64-ce6aaa428452" width="16" height="16" alt="email" /></a> &nbsp; <a href="https://facebook.com" aria-label="Facebook">
@@ -337,7 +337,7 @@ The 18th Executive Committee carries forward a tradition of principled student-l
 </tr>
 </table>
 
-<table border="1" cellspacing="0" cellpadding="10">
+<table border="1" cellspacing="0" cellpadding="10" width="100%">
 <tr>
 <td align="center" width="33%"><img src="https://i.pravatar.cc/140?img=4" width="120" alt="Volunteer Coordinator portrait"><br/><strong>Abdullah Al Zubayer Talha</strong><br/><img alt="EWUTC - Volunteer Coordinator" src="https://img.shields.io/badge/EWUTC%20-%20Volunteer%20Coordinator-0f3b66?style=flat" /><br/>
 <a href="https://www.ewutc.com/profile/executive/18/" aria-label="Website"><img src="https://github.com/user-attachments/assets/b622ae9f-c216-4745-bf76-ab94f1fc7c69" width="16" height="16" alt="website" /></a> &nbsp; <a href="mailto:executive@ewutc.com" aria-label="Email"><img src="https://github.com/user-attachments/assets/d2d8f691-661b-4109-ad64-ce6aaa428452" width="16" height="16" alt="email" /></a> &nbsp; <a href="https://facebook.com" aria-label="Facebook">
@@ -351,7 +351,7 @@ The 18th Executive Committee carries forward a tradition of principled student-l
 </tr>
 </table>
 
-<table border="1" cellspacing="0" cellpadding="10">
+<table border="1" cellspacing="0" cellpadding="10" width="100%">
 <tr>
 <td align="center" width="25%"><img src="https://i.pravatar.cc/140?img=7" width="120" alt="Photographer portrait"><br/><strong>Mahfuj Hasan Rubel</strong><br/><img alt="EWUTC - Photographer" src="https://img.shields.io/badge/EWUTC%20-%20Photographer-0f3b66?style=flat" /><br/>
 <a href="https://www.ewutc.com/profile/executive/18/" aria-label="Website"><img src="https://github.com/user-attachments/assets/b622ae9f-c216-4745-bf76-ab94f1fc7c69" width="16" height="16" alt="website" /></a> &nbsp; <a href="mailto:executive@ewutc.com" aria-label="Email"><img src="https://github.com/user-attachments/assets/d2d8f691-661b-4109-ad64-ce6aaa428452" width="16" height="16" alt="email" /></a> &nbsp; <a href="https://facebook.com" aria-label="Facebook">
@@ -385,7 +385,7 @@ The following records preserve the prior two executive committees as a reference
 
 <div align="center">
 
-<table border="1" cellspacing="0" cellpadding="10">
+<table border="1" cellspacing="0" cellpadding="10" width="100%">
 <tr>
 <td align="center" width="100%">
 <img src="https://i.pravatar.cc/140?img=65" width="120" alt="President portrait"><br/>
@@ -410,7 +410,7 @@ The following records preserve the prior two executive committees as a reference
 
 <div align="center">
 
-<table border="1" cellspacing="0" cellpadding="10">
+<table border="1" cellspacing="0" cellpadding="10" width="100%">
 <tr>
 <td align="center" width="100%">
 <img src="https://i.pravatar.cc/140?img=65" width="120" alt="President portrait"><br/>
@@ -435,7 +435,7 @@ EWUTC's Faculty Moderators are academic members of East West University who serv
 
 <div align="center">
 
-<table border="1" cellspacing="0" cellpadding="10">
+<table border="1" cellspacing="0" cellpadding="10" width="100%">
 <tr>
 <td align="center" width="50%">
   <img src="https://i.pravatar.cc/140?img=24" width="120" alt="Md. Khalid Mahbub Khan portrait"><br/>
@@ -469,7 +469,7 @@ The following honours the faculty members who served as Moderator in prior terms
 
 <div align="center">
 
-<table border="1" cellspacing="0" cellpadding="10">
+<table border="1" cellspacing="0" cellpadding="10" width="100%">
 <tr>
 <td align="center" width="100%">
   <img src="https://i.pravatar.cc/140?img=25" width="120" alt="S. M. Raiyan Chowdhury portrait"><br/>
