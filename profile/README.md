@@ -268,7 +268,7 @@ The 18th Executive Committee carries forward a tradition of principled student-l
 
 <div align="center">
 
-<table>
+<table border="1" cellspacing="0" cellpadding="10" width="100%">
 <tr>
 <td align="center" width="25%"></td>
 <td align="center" width="25%">
@@ -293,7 +293,7 @@ The 18th Executive Committee carries forward a tradition of principled student-l
 </tr>
 </table>
 
-<table>
+<table border="1" cellspacing="0" cellpadding="10" width="100%">
 <tr>
 <td align="center" width="20%"></td>
 <td align="center" width="20%">
@@ -332,7 +332,7 @@ The 18th Executive Committee carries forward a tradition of principled student-l
 
 <br>
 
-<table>
+<table border="1" cellspacing="0" cellpadding="10" width="100%">
 <tr>
 <td align="center" width="25%"><img src="https://i.pravatar.cc/140?img=70" width="120" alt="Event Coordinator portrait"><br><strong>Ekramul Hassan Ratul</strong><br><img alt="EWUTC - Event Coordinator" src="https://img.shields.io/badge/EWUTC%20-%20Event%20Coordinator-0f3b66?style=flat" /><br>
 <a href="https://www.ewutc.com/profile/executive/18/" aria-label="Website"> <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#2563eb" d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM5.78 8.75a9.64 9.64 0 0 0 1.363 4.177c.255.426.542.832.857 1.215.245-.296.551-.705.857-1.215A9.64 9.64 0 0 0 10.22 8.75Zm4.44-1.5a9.64 9.64 0 0 0-1.363-4.177c-.307-.51-.612-.919-.857-1.215a9.927 9.927 0 0 0-.857 1.215A9.64 9.64 0 0 0 5.78 7.25Zm-5.944 1.5H1.543a6.507 6.507 0 0 0 4.666 5.5c-.123-.181-.24-.365-.352-.552-.715-1.192-1.437-2.874-1.581-4.948Zm-2.733-1.5h2.733c.144-2.074.866-3.756 1.58-4.948.12-.197.237-.381.353-.552a6.507 6.507 0 0 0-4.666 5.5Zm10.181 1.5c-.144 2.074-.866 3.756-1.58 4.948-.12.197-.237.381-.353.552a6.507 6.507 0 0 0 4.666-5.5Zm2.733-1.5a6.507 6.507 0 0 0-4.666-5.5c.123.181.24.365.353.552.714 1.192 1.436 2.874 1.58 4.948Z"></path></svg></a> &nbsp; <a href="mailto:executive@ewutc.com" aria-label="Email"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#2563eb" d="M1.75 2h12.5c.966 0 1.75.784 1.75 1.75v8.5A1.75 1.75 0 0 1 14.25 14H1.75A1.75 1.75 0 0 1 0 12.25v-8.5C0 2.784.784 2 1.75 2ZM1.5 12.251c0 .138.112.25.25.25h12.5a.25.25 0 0 0 .25-.25V5.809L8.38 9.397a.75.75 0 0 1-.76 0L1.5 5.809v6.442Zm13-8.181v-.32a.25.25 0 0 0-.25-.25H1.75a.25.25 0 0 0-.25.25v.32L8 7.88Z"></path></svg></a> &nbsp; <a href="https://facebook.com" aria-label="Facebook">
@@ -357,7 +357,7 @@ The 18th Executive Committee carries forward a tradition of principled student-l
 </tr>
 </table>
 
-<table>
+<table border="1" cellspacing="0" cellpadding="10" width="100%">
 <tr>
 <td align="center" width="33%"><img src="https://i.pravatar.cc/140?img=4" width="120" alt="Volunteer Coordinator portrait"><br><strong>Abdullah Al Zubayer Talha</strong><br><img alt="EWUTC - Volunteer Coordinator" src="https://img.shields.io/badge/EWUTC%20-%20Volunteer%20Coordinator-0f3b66?style=flat" /><br>
 <a href="https://www.ewutc.com/profile/executive/18/" aria-label="Website"> <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#2563eb" d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM5.78 8.75a9.64 9.64 0 0 0 1.363 4.177c.255.426.542.832.857 1.215.245-.296.551-.705.857-1.215A9.64 9.64 0 0 0 10.22 8.75Zm4.44-1.5a9.64 9.64 0 0 0-1.363-4.177c-.307-.51-.612-.919-.857-1.215a9.927 9.927 0 0 0-.857 1.215A9.64 9.64 0 0 0 5.78 7.25Zm-5.944 1.5H1.543a6.507 6.507 0 0 0 4.666 5.5c-.123-.181-.24-.365-.352-.552-.715-1.192-1.437-2.874-1.581-4.948Zm-2.733-1.5h2.733c.144-2.074.866-3.756 1.58-4.948.12-.197.237-.381.353-.552a6.507 6.507 0 0 0-4.666 5.5Zm10.181 1.5c-.144 2.074-.866 3.756-1.58 4.948-.12.197-.237.381-.353.552a6.507 6.507 0 0 0 4.666-5.5Zm2.733-1.5a6.507 6.507 0 0 0-4.666-5.5c.123.181.24.365.353.552.714 1.192 1.436 2.874 1.58 4.948Z"></path></svg></a> &nbsp; <a href="mailto:executive@ewutc.com" aria-label="Email"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#2563eb" d="M1.75 2h12.5c.966 0 1.75.784 1.75 1.75v8.5A1.75 1.75 0 0 1 14.25 14H1.75A1.75 1.75 0 0 1 0 12.25v-8.5C0 2.784.784 2 1.75 2ZM1.5 12.251c0 .138.112.25.25.25h12.5a.25.25 0 0 0 .25-.25V5.809L8.38 9.397a.75.75 0 0 1-.76 0L1.5 5.809v6.442Zm13-8.181v-.32a.25.25 0 0 0-.25-.25H1.75a.25.25 0 0 0-.25.25v.32L8 7.88Z"></path></svg></a> &nbsp; <a href="https://facebook.com" aria-label="Facebook">
@@ -377,7 +377,7 @@ The 18th Executive Committee carries forward a tradition of principled student-l
 </tr>
 </table>
 
-<table>
+<table border="1" cellspacing="0" cellpadding="10" width="100%">
 <tr>
 <td align="center" width="25%"><img src="https://i.pravatar.cc/140?img=7" width="120" alt="Photographer portrait"><br><strong>Mahfuj Hasan Rubel</strong><br><img alt="EWUTC - Photographer" src="https://img.shields.io/badge/EWUTC%20-%20Photographer-0f3b66?style=flat" /><br>
 <a href="https://www.ewutc.com/profile/executive/18/" aria-label="Website"> <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#2563eb" d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM5.78 8.75a9.64 9.64 0 0 0 1.363 4.177c.255.426.542.832.857 1.215.245-.296.551-.705.857-1.215A9.64 9.64 0 0 0 10.22 8.75Zm4.44-1.5a9.64 9.64 0 0 0-1.363-4.177c-.307-.51-.612-.919-.857-1.215a9.927 9.927 0 0 0-.857 1.215A9.64 9.64 0 0 0 5.78 7.25Zm-5.944 1.5H1.543a6.507 6.507 0 0 0 4.666 5.5c-.123-.181-.24-.365-.352-.552-.715-1.192-1.437-2.874-1.581-4.948Zm-2.733-1.5h2.733c.144-2.074.866-3.756 1.58-4.948.12-.197.237-.381.353-.552a6.507 6.507 0 0 0-4.666 5.5Zm10.181 1.5c-.144 2.074-.866 3.756-1.58 4.948-.12.197-.237.381-.353.552a6.507 6.507 0 0 0 4.666-5.5Zm2.733-1.5a6.507 6.507 0 0 0-4.666-5.5c.123.181.24.365.353.552.714 1.192 1.436 2.874 1.58 4.948Z"></path></svg></a> &nbsp; <a href="mailto:executive@ewutc.com" aria-label="Email"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#2563eb" d="M1.75 2h12.5c.966 0 1.75.784 1.75 1.75v8.5A1.75 1.75 0 0 1 14.25 14H1.75A1.75 1.75 0 0 1 0 12.25v-8.5C0 2.784.784 2 1.75 2ZM1.5 12.251c0 .138.112.25.25.25h12.5a.25.25 0 0 0 .25-.25V5.809L8.38 9.397a.75.75 0 0 1-.76 0L1.5 5.809v6.442Zm13-8.181v-.32a.25.25 0 0 0-.25-.25H1.75a.25.25 0 0 0-.25.25v.32L8 7.88Z"></path></svg></a> &nbsp; <a href="https://facebook.com" aria-label="Facebook">
@@ -419,7 +419,7 @@ The following records preserve the prior two executive committees as a reference
 
 <div align="center">
 
-<table>
+<table border="1" cellspacing="0" cellpadding="10" width="100%">
 <tr>
 <td align="center" width="25%"></td>
 <td align="center" width="25%">
@@ -448,7 +448,7 @@ The following records preserve the prior two executive committees as a reference
 
 <div align="center">
 
-<table>
+<table border="1" cellspacing="0" cellpadding="10" width="100%">
 <tr>
 <td align="center" width="25%"></td>
 <td align="center" width="25%">
@@ -477,7 +477,7 @@ EWUTC's Faculty Moderators are academic members of East West University who serv
 
 <div align="center">
 
-<table>
+<table border="1" cellspacing="0" cellpadding="10" width="100%">
 <tr>
 <td align="center" width="25%"></td>
 <td align="center" width="25%">
@@ -513,7 +513,7 @@ The following honours the faculty members who served as Moderator in prior terms
 
 <div align="center">
 
-<table>
+<table border="1" cellspacing="0" cellpadding="10" width="100%">
 <tr>
 <td align="center" width="25%">
   <img src="https://i.pravatar.cc/140?img=25" width="120" alt="S. M. Raiyan Chowdhury portrait"><br>
