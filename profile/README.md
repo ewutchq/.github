@@ -301,14 +301,24 @@ The 18th Executive Committee carries forward a tradition of principled student-l
 
 <div align="center">
 <table border="1" cellspacing="0" cellpadding="10" width="100%">
-<tr><td align="center">
+<tr>
+<td align="center">
+<img src="https://github.com/user-attachments/assets/95909db0-2a84-43d5-8743-18f19e52b70a" width="100" alt="EWU Logo" />
+</td>
+<td align="center">
 <br/>
 <strong><font size="5">East West University Telecommunications Club</font></strong><br/>
 <font>— 18th Executive Committee · 2026–2027 —</font>
 <br/><br/>
-</td></tr>
+</td>
+<td align="center">
+<img src="https://github.com/user-attachments/assets/e85cb295-3733-43c4-b5a8-0ef49c9eef7d" width="100" alt="EWUTC Logo" />
+</td>
+</tr>
 </table>
 </div>
+
+<br/>
 
 <div align="center">
 
