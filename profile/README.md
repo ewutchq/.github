@@ -1,6 +1,9 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/c5061972-44a8-491f-aa8a-75d145480dd7" alt="EWUTC banner" width="100%" />
 </p>
+
+---
+
 <p align="center">
   <a href="#about">About</a> •
   <a href="#upcoming-events">Upcoming Events</a> •
@@ -14,11 +17,7 @@
   <a href="#join-us">Membership</a>
 </p>
 
-<p align="center">
-  <img alt="Organization: Student Run" src="https://img.shields.io/badge/Organization-Student%20Run-purple" />
-  <img alt="Focus: Telecom & IT" src="https://img.shields.io/badge/Focus-Telecom%20%26%20IT-0f3b66" />
-  <img alt="Location: Dhaka, Bangladesh" src="https://img.shields.io/badge/Location-Dhaka,%20Bangladesh-1d4ed8" />
-</p>
+---
 
 East West University Telecommunications Club was established on **14 April 2006** by a student cohort. Since its founding, EWUTC has remained one of the university’s most active student-run organizations.
 
