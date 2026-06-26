@@ -7,7 +7,6 @@
 <p align="center">
   <a href="#about">About</a> •
   <a href="#upcoming-events">Upcoming Events</a> •
-  <a href="#signature-events">Events</a> •
   <a href="#updates">Updates</a> •
   <a href="#executive-committee">Executive Committee</a> •
   <a href="#moderators">Moderators</a> •
@@ -103,7 +102,7 @@ This portfolio is maintained to reflect the current program roadmap and planning
 </tr>
 <tr>
 <td colspan="2" align="center">
-  <a href="https://ewutc.org/events"><small>Explore full schedule</small></a>
+  <a href="https://ewutc.com/programs"><small>Explore full schedule</small></a>
 </td>
 </tr>
 <tr>
@@ -113,21 +112,7 @@ This portfolio is maintained to reflect the current program roadmap and planning
 </tr>
 </table>
 
-<a id="signature-events"></a>
-
-## Signature Events and Flagship Initiatives
-
-### National Entrepreneurship Summit (NES)
-
-Since **2018**, EWUTC has delivered the National Entrepreneurship Summit as a premier annual initiative. It blends seminar forums, mentor-led panels, and innovation showcases to foster entrepreneurial leadership and practical industry collaboration.
-
-### Telco Warfare
-
-Telco Warfare has been held nationally since **2012** and internationally since **2017**. It remains EWUTC’s premier telecom and IT challenge series, hosting competitions in various sectors of IT and programming. The event successfully gathers almost 60 institutions and 2000+ participants from across the country to compete in different segments.
-
-### National Learning Fest (NLF)
-
-Introduced this year, National Learning Fest provides a practical learning platform for college and university students with applied workshops, career skills sessions, and technology tracks designed to strengthen academic and professional readiness. It brings a unique opportunity for students to learn and gain hands-on experience on topics highly relevant to the job market and university life.
+<a id="updates"></a>
 
 ## Updates
 
@@ -155,7 +140,7 @@ Recent publications, research notes, and written insights produced by EWUTC memb
 </tr>
 <tr>
 <td align="center">
-<a href="https://ewutc.org/updates/publications" target="_blank">
+<a href="https://ewutc.com/stream/publications" target="_blank">
 <small>Read More</small>
 </a>
 </td>
@@ -190,7 +175,7 @@ A focused summary of recent club activity, online stories, and program updates t
 </tr>
 <tr>
 <td align="center">
-<a href="https://ewutc.org/updates/activity" target="_blank">
+<a href="https://ewutc.com/stream/activities" target="_blank">
 <small>More Updates</small>
 </a>
 </td>
@@ -233,7 +218,7 @@ Recent social channel activity, announcements, and community highlights from EWU
 </tr>
 <tr>
 <td colspan="2" align="center">
-<a href="https://ewutc.org/gallery" target="_blank">
+<a href="https://ewutc.com/stream/socials" target="_blank">
     <small>Load More</small>
   </a>
 </td>
@@ -281,7 +266,7 @@ A visual snapshot of our journey, events, and community moments that define EWUT
 </tr>
 <tr>
 <td colspan="4" align="center">
-<a href="https://ewutc.org/gallery" target="_blank">
+<a href="https://ewutc.com/moments" target="_blank">
     <small>Enjoy More Moments</small>
   </a>
 </td>
@@ -325,7 +310,7 @@ The 18th Executive Committee carries forward a tradition of principled student-l
 <table border="1" cellspacing="0" cellpadding="10" width="100%">
 <tr>
 <td align="center" width="600">
-<img src="https://i.pravatar.cc/140?img=65" width="120" alt="President portrait"><br/>
+<img src="https://github.com/ewutchq/public/blob/accd36ac9e53820692ae9dd51550b9431f8ccb21/assets/images/internal/committee/18th/reveal-poster/raianul-president.jpg" width="120" alt="President portrait"><br/>
 <strong>Kazi Raianul Haque</strong><br/>
 <img alt="EWUTC - President" src="https://img.shields.io/badge/EWUTC%20-%20President-0f3b66?style=flat" /><br/>
 <a href="https://www.ewutc.com/profile/executive/18/" aria-label="Website"><img src="https://github.com/user-attachments/assets/b622ae9f-c216-4745-bf76-ab94f1fc7c69" width="16" height="16" alt="website" /></a> &nbsp; <a href="mailto:executive@ewutc.com" aria-label="Email"><img src="https://github.com/user-attachments/assets/d2d8f691-661b-4109-ad64-ce6aaa428452" width="16" height="16" alt="email" /></a> &nbsp; <a href="https://facebook.com" aria-label="Facebook">
@@ -576,15 +561,15 @@ Stay connected with EWUTC through our social channels and announcements.
 
 For general inquiries, membership, or partnerships, reach out directly.
 
-- **Email:** [contact@ewutc.org](mailto:contact@ewutc.org)
+- **Email:** [contact@ewutc.com](mailto:contact@ewutc.com)
 - **Office:** East West University, Plot 7/A, Aftabuddin Ahmed Rd, Dhaka 1212
-- **Membership:** [ewutc.org/join](https://ewutc.org/join)
+- **Membership:** [ewutc.com/join](https://ewutc.com/join)
 
 ## Join Us
 
 EWUTC invites students, alumni, educators, and industry partners to participate in its programs.
 
-Visit [our membership page](https://ewutc.org/join) to learn how to join the next cycle of events and initiatives.
+Visit [our membership page](https://ewutc.com/join) to learn how to join the next cycle of events and initiatives.
 
 Contributions include:
 
