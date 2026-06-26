@@ -140,19 +140,19 @@ Recent publications, research notes, and written insights produced by EWUTC memb
 
 <table border="1" width="100%" cellspacing="0" cellpadding="10">
 <tr>
-<td>
+<td width="1200">
 <a href="#">🔗 Technical Brief: Telecom Trends</a><br />
 A technical brief on emerging telecom trends and applications for student researchers.
 </td>
 </tr>
 <tr>
-<td>
+<td width="1200">
 <a href="#">🔗 Workshop Report</a><br />
 A written recap of the latest workshop sessions, including methodologies, outcomes, and participant insights.
 </td>
 </tr>
 <tr>
-<td>
+<td width="1200">
 <a href="#">🔗 Research Note: Learning Fest</a><br />
 A research note detailing the educational impact and learning outcomes from the National Learning Fest.
 </td>
@@ -178,19 +178,19 @@ A focused summary of recent club activity, online stories, and program updates t
 
 <table border="1" width="100%" cellspacing="0" cellpadding="10">
 <tr>
-<td>
+<td width="1200">
 <a href="#">🔗 Campus Workshop Recap</a><br />
 Summary of the latest IoT and cybersecurity workshop outcomes, including participant insights and project showcases.
 </td>
 </tr>
 <tr>
-<td>
+<td width="1200">
 <a href="#">🔗 Program Launch Announcement</a><br />
 Announcement of a new mentoring program designed to support students preparing for telecom and IT internships.
 </td>
 </tr>
 <tr>
-<td>
+<td width="1200">
 <a href="#">🔗 Student Showcase Highlights</a><br />
 Highlights from recent student project presentations and collaborative learning sessions with industry reviewers.
 </td>
