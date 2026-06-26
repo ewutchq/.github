@@ -48,6 +48,8 @@ Programs are designed to align student learning with current technology trends a
 
 This portfolio is maintained to reflect the current program roadmap and planning cycle.
 
+`Nothing To Show Here`
+<!--
 <table border="1" width="100%" cellspacing="0" cellpadding="10">
 <tr>
 <td width="220" valign="top">
@@ -111,6 +113,7 @@ This portfolio is maintained to reflect the current program roadmap and planning
 </td>
 </tr>
 </table>
+-->
 
 <a id="updates"></a>
 
@@ -122,6 +125,8 @@ Regular updates from EWUTC’s channels are organized with publications first, f
 
 Recent publications, research notes, and written insights produced by EWUTC members.
 
+`Nothing To Show Here`
+<!--
 <table border="1" width="100%" cellspacing="0" cellpadding="10">
 <tr>
 <td width="1200">
@@ -151,12 +156,14 @@ Recent publications, research notes, and written insights produced by EWUTC memb
 </td>
 </tr>
 </table>
-
+-->
 
 ### Activity Updates
 
 A focused summary of recent club activity, online stories, and program updates that keep the audience informed.
 
+`Nothing To Show Here`
+<!--
 <table border="1" width="100%" cellspacing="0" cellpadding="10">
 <tr>
 <td width="1200">
@@ -186,11 +193,14 @@ A focused summary of recent club activity, online stories, and program updates t
 </td>
 </tr>
 </table>
+-->
 
 ### Social Updates
 
 Recent social channel activity, announcements, and community highlights from EWUTC’s platforms.
 
+`Nothing To Show Here`
+<!--
 <table border="1" width="100%" cellspacing="0" cellpadding="10">
 <tr>
 <td width="120" valign="top">
@@ -229,11 +239,14 @@ Recent social channel activity, announcements, and community highlights from EWU
 </td>
 </tr>
 </table>
+-->
 
 ### Glimpses of EWUTC
 
 A visual snapshot of our journey, events, and community moments that define EWUTC.
 
+`Nothing To Show Here`
+<!--
 <table border="1" width="100%" cellspacing="0" cellpadding="10">
 <tr>
 <td align="center" width="300">
@@ -277,6 +290,7 @@ A visual snapshot of our journey, events, and community moments that define EWUT
 </td>
 </tr>
 </table>
+-->
 
 ## Executive Committee
 
@@ -313,15 +327,13 @@ The 18th Executive Committee carries forward a tradition of principled student-l
 <img src="https://github.com/ewutchq/public/blob/accd36ac9e53820692ae9dd51550b9431f8ccb21/assets/images/internal/committee/18th/reveal-poster/raianul-president.jpg" width="120" alt="President portrait"><br/>
 <strong>Kazi Raianul Haque</strong><br/>
 <img alt="EWUTC - President" src="https://img.shields.io/badge/EWUTC%20-%20President-0f3b66?style=flat" /><br/>
-<a href="https://www.ewutc.com/profile/executive/18/" aria-label="Website"><img src="https://github.com/user-attachments/assets/b622ae9f-c216-4745-bf76-ab94f1fc7c69" width="16" height="16" alt="website" /></a> &nbsp; <a href="mailto:executive@ewutc.com" aria-label="Email"><img src="https://github.com/user-attachments/assets/d2d8f691-661b-4109-ad64-ce6aaa428452" width="16" height="16" alt="email" /></a> &nbsp; <a href="https://facebook.com" aria-label="Facebook">
-            <img src="https://github.com/user-attachments/assets/688d9d32-d8c1-44a4-b5a2-3cae2bf29ae7" width="16" height="16" alt="facebook" /></a> &nbsp; <a href="https://linkedin.com" aria-label="LinkedIn"><img src="https://github.com/user-attachments/assets/0df63e9c-8543-4ab4-89e4-01bbb806357e" width="16" height="16" alt="linkedin" /></a>
+<a href="https://www.ewutc.com/profile/executive/18th/president/raianul/" aria-label="Website"><img src="https://github.com/user-attachments/assets/b622ae9f-c216-4745-bf76-ab94f1fc7c69" width="16" height="16" alt="website" /></a> &nbsp; <a href="mailto:raianul.president@18th.ewutc.com" aria-label="Email"><img src="https://github.com/user-attachments/assets/d2d8f691-661b-4109-ad64-ce6aaa428452" width="16" height="16" alt="email" /></a>
 </td>
 <td align="center" width="600">
-<img src="https://i.pravatar.cc/140?img=66" width="120" alt="Vice President portrait"><br/>
+<img src="https://github.com/ewutchq/public/blob/accd36ac9e53820692ae9dd51550b9431f8ccb21/assets/images/internal/committee/18th/reveal-poster/aziz-vice.jpg" width="120" alt="Vice President portrait"><br/>
 <strong>MD Tarek Aziz Leyon</strong><br/>
 <img alt="EWUTC - Vice President" src="https://img.shields.io/badge/EWUTC%20-%20Vice%20President-0f3b66?style=flat" /><br/>
-<a href="https://www.ewutc.com/profile/executive/18/" aria-label="Website"><img src="https://github.com/user-attachments/assets/b622ae9f-c216-4745-bf76-ab94f1fc7c69" width="16" height="16" alt="website" /></a> &nbsp; <a href="mailto:executive@ewutc.com" aria-label="Email"><img src="https://github.com/user-attachments/assets/d2d8f691-661b-4109-ad64-ce6aaa428452" width="16" height="16" alt="email" /></a> &nbsp; <a href="https://facebook.com" aria-label="Facebook">
-            <img src="https://github.com/user-attachments/assets/688d9d32-d8c1-44a4-b5a2-3cae2bf29ae7" width="16" height="16" alt="facebook" /></a> &nbsp; <a href="https://linkedin.com" aria-label="LinkedIn"><img src="https://github.com/user-attachments/assets/0df63e9c-8543-4ab4-89e4-01bbb806357e" width="16" height="16" alt="linkedin" /></a>
+<a href="https://www.ewutc.com/profile/executive/18th/vice-president/tarek/" aria-label="Website"><img src="https://github.com/user-attachments/assets/b622ae9f-c216-4745-bf76-ab94f1fc7c69" width="16" height="16" alt="website" /></a> &nbsp; <a href="mailto:tarek.vp@18th.ewutc.com" aria-label="Email"><img src="https://github.com/user-attachments/assets/d2d8f691-661b-4109-ad64-ce6aaa428452" width="16" height="16" alt="email" /></a>
 </td>
 </tr>
 </table>
@@ -329,25 +341,22 @@ The 18th Executive Committee carries forward a tradition of principled student-l
 <table border="1" cellspacing="0" cellpadding="10" width="100%">
 <tr>
 <td align="center" width="400">
-<img src="https://i.pravatar.cc/140?img=67" width="120" alt="General Secretary portrait"><br/>
+<img src="https://github.com/ewutchq/public/blob/accd36ac9e53820692ae9dd51550b9431f8ccb21/assets/images/internal/committee/18th/reveal-poster/saima-gs.jpg" width="120" alt="General Secretary portrait"><br/>
 <strong>Saima Akter Tisha</strong><br/>
 <img alt="EWUTC - General Secretary" src="https://img.shields.io/badge/EWUTC%20-%20General%20Secretary-0f3b66?style=flat" /><br/>
-<a href="https://www.ewutc.com/profile/executive/18/" aria-label="Website"><img src="https://github.com/user-attachments/assets/b622ae9f-c216-4745-bf76-ab94f1fc7c69" width="16" height="16" alt="website" /></a> &nbsp; <a href="mailto:executive@ewutc.com" aria-label="Email"><img src="https://github.com/user-attachments/assets/d2d8f691-661b-4109-ad64-ce6aaa428452" width="16" height="16" alt="email" /></a> &nbsp; <a href="https://facebook.com" aria-label="Facebook">
-            <img src="https://github.com/user-attachments/assets/688d9d32-d8c1-44a4-b5a2-3cae2bf29ae7" width="16" height="16" alt="facebook" /></a> &nbsp; <a href="https://linkedin.com" aria-label="LinkedIn"><img src="https://github.com/user-attachments/assets/0df63e9c-8543-4ab4-89e4-01bbb806357e" width="16" height="16" alt="linkedin" /></a>
+<a href="https://www.ewutc.com/profile/executive/18th/general-secretary/tisha/" aria-label="Website"><img src="https://github.com/user-attachments/assets/b622ae9f-c216-4745-bf76-ab94f1fc7c69" width="16" height="16" alt="website" /></a> &nbsp; <a href="mailto:tisha.gs@18th.ewutc.com" aria-label="Email"><img src="https://github.com/user-attachments/assets/d2d8f691-661b-4109-ad64-ce6aaa428452" width="16" height="16" alt="email" /></a>
 </td>
 <td align="center" width="400">
-<img src="https://i.pravatar.cc/140?img=68" width="120" alt="Treasurer portrait"><br/>
+<img src="https://github.com/ewutchq/public/blob/accd36ac9e53820692ae9dd51550b9431f8ccb21/assets/images/internal/committee/18th/reveal-poster/monem-treasurer.jpg" width="120" alt="Treasurer portrait"><br/>
 <strong>Mahamudul Hasan Monem</strong><br/>
 <img alt="EWUTC - Treasurer" src="https://img.shields.io/badge/EWUTC%20-%20Treasurer-0f3b66?style=flat" /><br/>
-<a href="https://www.ewutc.com/profile/executive/18/" aria-label="Website"><img src="https://github.com/user-attachments/assets/b622ae9f-c216-4745-bf76-ab94f1fc7c69" width="16" height="16" alt="website" /></a> &nbsp; <a href="mailto:executive@ewutc.com" aria-label="Email"><img src="https://github.com/user-attachments/assets/d2d8f691-661b-4109-ad64-ce6aaa428452" width="16" height="16" alt="email" /></a> &nbsp; <a href="https://facebook.com" aria-label="Facebook">
-            <img src="https://github.com/user-attachments/assets/688d9d32-d8c1-44a4-b5a2-3cae2bf29ae7" width="16" height="16" alt="facebook" /></a> &nbsp; <a href="https://linkedin.com" aria-label="LinkedIn"><img src="https://github.com/user-attachments/assets/0df63e9c-8543-4ab4-89e4-01bbb806357e" width="16" height="16" alt="linkedin" /></a>
+<a href="https://www.ewutc.com/profile/executive/18th/treasurer/monem/" aria-label="Website"><img src="https://github.com/user-attachments/assets/b622ae9f-c216-4745-bf76-ab94f1fc7c69" width="16" height="16" alt="website" /></a> &nbsp; <a href="mailto:monem.treasurer@18th.ewutc.com" aria-label="Email"><img src="https://github.com/user-attachments/assets/d2d8f691-661b-4109-ad64-ce6aaa428452" width="16" height="16" alt="email" /></a>
 </td>
 <td align="center" width="400">
-<img src="https://i.pravatar.cc/140?img=69" width="120" alt="Joint Secretary portrait"><br/>
+<img src="https://github.com/ewutchq/public/blob/accd36ac9e53820692ae9dd51550b9431f8ccb21/assets/images/internal/committee/18th/reveal-poster/arbi-js.jpg" width="120" alt="Joint Secretary portrait"><br/>
 <strong>Fatiha Arbi Sinthia</strong><br/>
 <img alt="EWUTC - Joint Secretary" src="https://img.shields.io/badge/EWUTC%20-%20Joint%20Secretary-0f3b66?style=flat" /><br/>
-<a href="https://www.ewutc.com/profile/executive/18/" aria-label="Website"><img src="https://github.com/user-attachments/assets/b622ae9f-c216-4745-bf76-ab94f1fc7c69" width="16" height="16" alt="website" /></a> &nbsp; <a href="mailto:executive@ewutc.com" aria-label="Email"><img src="https://github.com/user-attachments/assets/d2d8f691-661b-4109-ad64-ce6aaa428452" width="16" height="16" alt="email" /></a> &nbsp; <a href="https://facebook.com" aria-label="Facebook">
-            <img src="https://github.com/user-attachments/assets/688d9d32-d8c1-44a4-b5a2-3cae2bf29ae7" width="16" height="16" alt="facebook" /></a> &nbsp; <a href="https://linkedin.com" aria-label="LinkedIn"><img src="https://github.com/user-attachments/assets/0df63e9c-8543-4ab4-89e4-01bbb806357e" width="16" height="16" alt="linkedin" /></a>
+<a href="https://www.ewutc.com/profile/executive/18th/joint-secretary/sinthia/" aria-label="Website"><img src="https://github.com/user-attachments/assets/b622ae9f-c216-4745-bf76-ab94f1fc7c69" width="16" height="16" alt="website" /></a> &nbsp; <a href="mailto:sinthia.jointsec@18th.ewutc.com" aria-label="Email"><img src="https://github.com/user-attachments/assets/d2d8f691-661b-4109-ad64-ce6aaa428452" width="16" height="16" alt="email" /></a>
 </td>
 </tr>
 </table>
@@ -364,49 +373,38 @@ The 18th Executive Committee carries forward a tradition of principled student-l
 
 <table border="1" cellspacing="0" cellpadding="10" width="100%">
 <tr>
-<td align="center" width="300"><img src="https://i.pravatar.cc/140?img=70" width="120" alt="Event Coordinator portrait"><br/><strong>Ekramul Hassan Ratul</strong><br/><img alt="EWUTC - Event Coordinator" src="https://img.shields.io/badge/EWUTC%20-%20Event%20Coordinator-0f3b66?style=flat" /><br/>
-<a href="https://www.ewutc.com/profile/executive/18/" aria-label="Website"><img src="https://github.com/user-attachments/assets/b622ae9f-c216-4745-bf76-ab94f1fc7c69" width="16" height="16" alt="website" /></a> &nbsp; <a href="mailto:executive@ewutc.com" aria-label="Email"><img src="https://github.com/user-attachments/assets/d2d8f691-661b-4109-ad64-ce6aaa428452" width="16" height="16" alt="email" /></a> &nbsp; <a href="https://facebook.com" aria-label="Facebook">
-            <img src="https://github.com/user-attachments/assets/688d9d32-d8c1-44a4-b5a2-3cae2bf29ae7" width="16" height="16" alt="facebook" /></a> &nbsp; <a href="https://linkedin.com" aria-label="LinkedIn"><img src="https://github.com/user-attachments/assets/0df63e9c-8543-4ab4-89e4-01bbb806357e" width="16" height="16" alt="linkedin" /></a></td>
-<td align="center" width="300"><img src="https://i.pravatar.cc/140?img=1" width="120" alt="Event Coordinator portrait"><br/><strong>Noshin Tabassum Oishi</strong><br/><img alt="EWUTC - Event Coordinator" src="https://img.shields.io/badge/EWUTC%20-%20Event%20Coordinator-0f3b66?style=flat" /><br/>
-<a href="https://www.ewutc.com/profile/executive/18/" aria-label="Website"><img src="https://github.com/user-attachments/assets/b622ae9f-c216-4745-bf76-ab94f1fc7c69" width="16" height="16" alt="website" /></a> &nbsp; <a href="mailto:executive@ewutc.com" aria-label="Email"><img src="https://github.com/user-attachments/assets/d2d8f691-661b-4109-ad64-ce6aaa428452" width="16" height="16" alt="email" /></a> &nbsp; <a href="https://facebook.com" aria-label="Facebook">
-            <img src="https://github.com/user-attachments/assets/688d9d32-d8c1-44a4-b5a2-3cae2bf29ae7" width="16" height="16" alt="facebook" /></a> &nbsp; <a href="https://linkedin.com" aria-label="LinkedIn"><img src="https://github.com/user-attachments/assets/0df63e9c-8543-4ab4-89e4-01bbb806357e" width="16" height="16" alt="linkedin" /></a></td>
-<td align="center" width="300"><img src="https://i.pravatar.cc/140?img=2" width="120" alt="Event Coordinator portrait"><br/><strong>MD Khalid Hasan Khan</strong><br/><img alt="EWUTC - Event Coordinator" src="https://img.shields.io/badge/EWUTC%20-%20Event%20Coordinator-0f3b66?style=flat" /><br/>
-<a href="https://www.ewutc.com/profile/executive/18/" aria-label="Website"><img src="https://github.com/user-attachments/assets/b622ae9f-c216-4745-bf76-ab94f1fc7c69" width="16" height="16" alt="website" /></a> &nbsp; <a href="mailto:executive@ewutc.com" aria-label="Email"><img src="https://github.com/user-attachments/assets/d2d8f691-661b-4109-ad64-ce6aaa428452" width="16" height="16" alt="email" /></a> &nbsp; <a href="https://facebook.com" aria-label="Facebook">
-            <img src="https://github.com/user-attachments/assets/688d9d32-d8c1-44a4-b5a2-3cae2bf29ae7" width="16" height="16" alt="facebook" /></a> &nbsp; <a href="https://linkedin.com" aria-label="LinkedIn"><img src="https://github.com/user-attachments/assets/0df63e9c-8543-4ab4-89e4-01bbb806357e" width="16" height="16" alt="linkedin" /></a></td>
-<td align="center" width="300"><img src="https://i.pravatar.cc/140?img=3" width="120" alt="Cultural Head portrait"><br/><strong>Fahima Ahmed Shifa</strong><br/><img alt="EWUTC - Cultural Head" src="https://img.shields.io/badge/EWUTC%20-%20Cultural%20Head-0f3b66?style=flat" /><br/>
-<a href="https://www.ewutc.com/profile/executive/18/" aria-label="Website"><img src="https://github.com/user-attachments/assets/b622ae9f-c216-4745-bf76-ab94f1fc7c69" width="16" height="16" alt="website" /></a> &nbsp; <a href="mailto:executive@ewutc.com" aria-label="Email"><img src="https://github.com/user-attachments/assets/d2d8f691-661b-4109-ad64-ce6aaa428452" width="16" height="16" alt="email" /></a> &nbsp; <a href="https://facebook.com" aria-label="Facebook">
-            <img src="https://github.com/user-attachments/assets/688d9d32-d8c1-44a4-b5a2-3cae2bf29ae7" width="16" height="16" alt="facebook" /></a> &nbsp; <a href="https://linkedin.com" aria-label="LinkedIn"><img src="https://github.com/user-attachments/assets/0df63e9c-8543-4ab4-89e4-01bbb806357e" width="16" height="16" alt="linkedin" /></a></td>
+<td align="center" width="300"><img src="https://github.com/ewutchq/public/blob/1de9aaf7ba86a26a5044d51b38c8e43f2cfecdde/assets/images/internal/committee/18th/reveal-poster/ratul-event.jpg" width="120" alt="Event Coordinator portrait"><br/><strong>Ekramul Hassan Ratul</strong><br/><img alt="EWUTC - Event Coordinator" src="https://img.shields.io/badge/EWUTC%20-%20Event%20Coordinator-0f3b66?style=flat" /><br/>
+<a href="https://www.ewutc.com/profile/executive/18th/event-coordinator/ratul/" aria-label="Website"><img src="https://github.com/user-attachments/assets/b622ae9f-c216-4745-bf76-ab94f1fc7c69" width="16" height="16" alt="website" /></a> &nbsp; <a href="mailto:ratul.eventcoo@18th.ewutc.com" aria-label="Email"><img src="https://github.com/user-attachments/assets/d2d8f691-661b-4109-ad64-ce6aaa428452" width="16" height="16" alt="email" /></a></td>
+<td align="center" width="300"><img src="https://github.com/ewutchq/public/blob/1de9aaf7ba86a26a5044d51b38c8e43f2cfecdde/assets/images/internal/committee/18th/reveal-poster/oishi-event.jpg" width="120" alt="Event Coordinator portrait"><br/><strong>Noshin Tabassum Oishi</strong><br/><img alt="EWUTC - Event Coordinator" src="https://img.shields.io/badge/EWUTC%20-%20Event%20Coordinator-0f3b66?style=flat" /><br/>
+<a href="https://www.ewutc.com/profile/executive/18th/event-coordinator/oishi/" aria-label="Website"><img src="https://github.com/user-attachments/assets/b622ae9f-c216-4745-bf76-ab94f1fc7c69" width="16" height="16" alt="website" /></a> &nbsp; <a href="mailto:oishi.eventcoo@18th.ewutc.com" aria-label="Email"><img src="https://github.com/user-attachments/assets/d2d8f691-661b-4109-ad64-ce6aaa428452" width="16" height="16" alt="email" /></a></td>
+<td align="center" width="300"><img src="https://github.com/ewutchq/public/blob/1de9aaf7ba86a26a5044d51b38c8e43f2cfecdde/assets/images/internal/committee/18th/reveal-poster/khalid-event.jpg" width="120" alt="Event Coordinator portrait"><br/><strong>MD Khalid Hasan Khan</strong><br/><img alt="EWUTC - Event Coordinator" src="https://img.shields.io/badge/EWUTC%20-%20Event%20Coordinator-0f3b66?style=flat" /><br/>
+<a href="https://www.ewutc.com/profile/executive/18th/event-coordinator/khalid/" aria-label="Website"><img src="https://github.com/user-attachments/assets/b622ae9f-c216-4745-bf76-ab94f1fc7c69" width="16" height="16" alt="website" /></a> &nbsp; <a href="mailto:khalid.eventcoo@18th.ewutc.com" aria-label="Email"><img src="https://github.com/user-attachments/assets/d2d8f691-661b-4109-ad64-ce6aaa428452" width="16" height="16" alt="email" /></a></td>
+<td align="center" width="300"><img src="https://github.com/ewutchq/public/blob/1de9aaf7ba86a26a5044d51b38c8e43f2cfecdde/assets/images/internal/committee/18th/reveal-poster/shifa-culturalhead.jpg" width="120" alt="Cultural Head portrait"><br/><strong>Fahima Ahmed Shifa</strong><br/><img alt="EWUTC - Cultural Head" src="https://img.shields.io/badge/EWUTC%20-%20Cultural%20Head-0f3b66?style=flat" /><br/>
+<a href="https://www.ewutc.com/profile/executive/18th/cultural-head/shifa/" aria-label="Website"><img src="https://github.com/user-attachments/assets/b622ae9f-c216-4745-bf76-ab94f1fc7c69" width="16" height="16" alt="website" /></a> &nbsp; <a href="mailto:shifa.cultural@18th.ewutc.com" aria-label="Email"><img src="https://github.com/user-attachments/assets/d2d8f691-661b-4109-ad64-ce6aaa428452" width="16" height="16" alt="email" /></a></td>
 </tr>
 </table>
 
 <table border="1" cellspacing="0" cellpadding="10" width="100%">
 <tr>
-<td align="center" width="400"><img src="https://i.pravatar.cc/140?img=4" width="120" alt="Volunteer Coordinator portrait"><br/><strong>Abdullah Al Zubayer Talha</strong><br/><img alt="EWUTC - Volunteer Coordinator" src="https://img.shields.io/badge/EWUTC%20-%20Volunteer%20Coordinator-0f3b66?style=flat" /><br/>
-<a href="https://www.ewutc.com/profile/executive/18/" aria-label="Website"><img src="https://github.com/user-attachments/assets/b622ae9f-c216-4745-bf76-ab94f1fc7c69" width="16" height="16" alt="website" /></a> &nbsp; <a href="mailto:executive@ewutc.com" aria-label="Email"><img src="https://github.com/user-attachments/assets/d2d8f691-661b-4109-ad64-ce6aaa428452" width="16" height="16" alt="email" /></a> &nbsp; <a href="https://facebook.com" aria-label="Facebook">
-            <img src="https://github.com/user-attachments/assets/688d9d32-d8c1-44a4-b5a2-3cae2bf29ae7" width="16" height="16" alt="facebook" /></a> &nbsp; <a href="https://linkedin.com" aria-label="LinkedIn"><img src="https://github.com/user-attachments/assets/0df63e9c-8543-4ab4-89e4-01bbb806357e" width="16" height="16" alt="linkedin" /></a></td>
-<td align="center" width="400"><img src="https://i.pravatar.cc/140?img=5" width="120" alt="Volunteer Coordinator portrait"><br/><strong>Shadman Alvi</strong><br/><img alt="EWUTC - Volunteer Coordinator" src="https://img.shields.io/badge/EWUTC%20-%20Volunteer%20Coordinator-0f3b66?style=flat" /><br/>
-<a href="https://www.ewutc.com/profile/executive/18/" aria-label="Website"><img src="https://github.com/user-attachments/assets/b622ae9f-c216-4745-bf76-ab94f1fc7c69" width="16" height="16" alt="website" /></a> &nbsp; <a href="mailto:executive@ewutc.com" aria-label="Email"><img src="https://github.com/user-attachments/assets/d2d8f691-661b-4109-ad64-ce6aaa428452" width="16" height="16" alt="email" /></a> &nbsp; <a href="https://facebook.com" aria-label="Facebook">
-            <img src="https://github.com/user-attachments/assets/688d9d32-d8c1-44a4-b5a2-3cae2bf29ae7" width="16" height="16" alt="facebook" /></a> &nbsp; <a href="https://linkedin.com" aria-label="LinkedIn"><img src="https://github.com/user-attachments/assets/0df63e9c-8543-4ab4-89e4-01bbb806357e" width="16" height="16" alt="linkedin" /></a></td>
-<td align="center" width="400"><img src="https://i.pravatar.cc/140?img=6" width="120" alt="Volunteer Coordinator portrait"><br/><strong>Samanta Hossain</strong><br/><img alt="EWUTC - Volunteer Coordinator" src="https://img.shields.io/badge/EWUTC%20-%20Volunteer%20Coordinator-0f3b66?style=flat" /><br/>
-<a href="https://www.ewutc.com/profile/executive/18/" aria-label="Website"><img src="https://github.com/user-attachments/assets/b622ae9f-c216-4745-bf76-ab94f1fc7c69" width="16" height="16" alt="website" /></a> &nbsp; <a href="mailto:executive@ewutc.com" aria-label="Email"><img src="https://github.com/user-attachments/assets/d2d8f691-661b-4109-ad64-ce6aaa428452" width="16" height="16" alt="email" /></a> &nbsp; <a href="https://facebook.com" aria-label="Facebook">
-            <img src="https://github.com/user-attachments/assets/688d9d32-d8c1-44a4-b5a2-3cae2bf29ae7" width="16" height="16" alt="facebook" /></a> &nbsp; <a href="https://linkedin.com" aria-label="LinkedIn"><img src="https://github.com/user-attachments/assets/0df63e9c-8543-4ab4-89e4-01bbb806357e" width="16" height="16" alt="linkedin" /></a></td>
+<td align="center" width="400"><img src="https://github.com/ewutchq/public/blob/1de9aaf7ba86a26a5044d51b38c8e43f2cfecdde/assets/images/internal/committee/18th/reveal-poster/talha-vc.jpg" width="120" alt="Volunteer Coordinator portrait"><br/><strong>Abdullah Al Zubayer Talha</strong><br/><img alt="EWUTC - Volunteer Coordinator" src="https://img.shields.io/badge/EWUTC%20-%20Volunteer%20Coordinator-0f3b66?style=flat" /><br/>
+<a href="https://www.ewutc.com/profile/executive/18th/volunteer-coordinator/talha/" aria-label="Website"><img src="https://github.com/user-attachments/assets/b622ae9f-c216-4745-bf76-ab94f1fc7c69" width="16" height="16" alt="website" /></a> &nbsp; <a href="mailto:talha.vcoo@18th.ewutc.com" aria-label="Email"><img src="https://github.com/user-attachments/assets/d2d8f691-661b-4109-ad64-ce6aaa428452" width="16" height="16" alt="email" /></a></td>
+<td align="center" width="400"><img src="https://github.com/ewutchq/public/blob/1de9aaf7ba86a26a5044d51b38c8e43f2cfecdde/assets/images/internal/committee/18th/reveal-poster/alvi-vc.jpg" width="120" alt="Volunteer Coordinator portrait"><br/><strong>Shadman Alvi</strong><br/><img alt="EWUTC - Volunteer Coordinator" src="https://img.shields.io/badge/EWUTC%20-%20Volunteer%20Coordinator-0f3b66?style=flat" /><br/>
+<a href="https://www.ewutc.com/profile/executive/18th/volunteer-coordinator/alvi/" aria-label="Website"><img src="https://github.com/user-attachments/assets/b622ae9f-c216-4745-bf76-ab94f1fc7c69" width="16" height="16" alt="website" /></a> &nbsp; <a href="mailto:alvi.vcoo@18th.ewutc.com" aria-label="Email"><img src="https://github.com/user-attachments/assets/d2d8f691-661b-4109-ad64-ce6aaa428452" width="16" height="16" alt="email" /></a></td>
+<td align="center" width="400"><img src="https://github.com/ewutchq/public/blob/1de9aaf7ba86a26a5044d51b38c8e43f2cfecdde/assets/images/internal/committee/18th/reveal-poster/samanta-vc.jpg" width="120" alt="Volunteer Coordinator portrait"><br/><strong>Samanta Hossain</strong><br/><img alt="EWUTC - Volunteer Coordinator" src="https://img.shields.io/badge/EWUTC%20-%20Volunteer%20Coordinator-0f3b66?style=flat" /><br/>
+<a href="https://www.ewutc.com/profile/executive/18th/volunteer-coordinator/samanta/" aria-label="Website"><img src="https://github.com/user-attachments/assets/b622ae9f-c216-4745-bf76-ab94f1fc7c69" width="16" height="16" alt="website" /></a> &nbsp; <a href="mailto:samanta.vcoo@18th.ewutc.com" aria-label="Email"><img src="https://github.com/user-attachments/assets/d2d8f691-661b-4109-ad64-ce6aaa428452" width="16" height="16" alt="email" /></a></td>
 </tr>
 </table>
 
 <table border="1" cellspacing="0" cellpadding="10" width="100%">
 <tr>
-<td align="center" width="300"><img src="https://i.pravatar.cc/140?img=7" width="120" alt="Photographer portrait"><br/><strong>Mahfuj Hasan Rubel</strong><br/><img alt="EWUTC - Photographer" src="https://img.shields.io/badge/EWUTC%20-%20Photographer-0f3b66?style=flat" /><br/>
-<a href="https://www.ewutc.com/profile/executive/18/" aria-label="Website"><img src="https://github.com/user-attachments/assets/b622ae9f-c216-4745-bf76-ab94f1fc7c69" width="16" height="16" alt="website" /></a> &nbsp; <a href="mailto:executive@ewutc.com" aria-label="Email"><img src="https://github.com/user-attachments/assets/d2d8f691-661b-4109-ad64-ce6aaa428452" width="16" height="16" alt="email" /></a> &nbsp; <a href="https://facebook.com" aria-label="Facebook">
-            <img src="https://github.com/user-attachments/assets/688d9d32-d8c1-44a4-b5a2-3cae2bf29ae7" width="16" height="16" alt="facebook" /></a> &nbsp; <a href="https://linkedin.com" aria-label="LinkedIn"><img src="https://github.com/user-attachments/assets/0df63e9c-8543-4ab4-89e4-01bbb806357e" width="16" height="16" alt="linkedin" /></a></td>
-<td align="center" width="300"><img src="https://i.pravatar.cc/140?img=8" width="120" alt="Content Writer portrait"><br/><strong>IsrafeI Islam</strong><br/><img alt="EWUTC - Content Writer" src="https://img.shields.io/badge/EWUTC%20-%20Content%20Writer-0f3b66?style=flat" /><br/>
-<a href="https://www.ewutc.com/profile/executive/18/" aria-label="Website"><img src="https://github.com/user-attachments/assets/b622ae9f-c216-4745-bf76-ab94f1fc7c69" width="16" height="16" alt="website" /></a> &nbsp; <a href="mailto:executive@ewutc.com" aria-label="Email"><img src="https://github.com/user-attachments/assets/d2d8f691-661b-4109-ad64-ce6aaa428452" width="16" height="16" alt="email" /></a> &nbsp; <a href="https://facebook.com" aria-label="Facebook">
-            <img src="https://github.com/user-attachments/assets/688d9d32-d8c1-44a4-b5a2-3cae2bf29ae7" width="16" height="16" alt="facebook" /></a> &nbsp; <a href="https://linkedin.com" aria-label="LinkedIn"><img src="https://github.com/user-attachments/assets/0df63e9c-8543-4ab4-89e4-01bbb806357e" width="16" height="16" alt="linkedin" /></a></td>
-<td align="center" width="300"><img src="https://i.pravatar.cc/140?img=9" width="120" alt="Head of Communication portrait"><br/><strong>Mahirafin Khan Mahim</strong><br/><img alt="EWUTC - Head of Communication" src="https://img.shields.io/badge/EWUTC%20-%20Head%20of%20Communication-0f3b66?style=flat" /><br/>
-<a href="https://www.ewutc.com/profile/executive/18/" aria-label="Website"><img src="https://github.com/user-attachments/assets/b622ae9f-c216-4745-bf76-ab94f1fc7c69" width="16" height="16" alt="website" /></a> &nbsp; <a href="mailto:executive@ewutc.com" aria-label="Email"><img src="https://github.com/user-attachments/assets/d2d8f691-661b-4109-ad64-ce6aaa428452" width="16" height="16" alt="email" /></a> &nbsp; <a href="https://facebook.com" aria-label="Facebook">
-            <img src="https://github.com/user-attachments/assets/688d9d32-d8c1-44a4-b5a2-3cae2bf29ae7" width="16" height="16" alt="facebook" /></a> &nbsp; <a href="https://linkedin.com" aria-label="LinkedIn"><img src="https://github.com/user-attachments/assets/0df63e9c-8543-4ab4-89e4-01bbb806357e" width="16" height="16" alt="linkedin" /></a></td>
-<td align="center" width="300"><img src="https://i.pravatar.cc/140?img=11" width="120" alt="Web Developer portrait"><br/><strong>MD Asaduzzaman Atik</strong><br/><img alt="EWUTC - Web Developer" src="https://img.shields.io/badge/EWUTC%20-%20Web%20Developer-0f3b66?style=flat" /><br/>
-<a href="https://www.ewutc.com/profile/executive/18/" aria-label="Website"><img src="https://github.com/user-attachments/assets/b622ae9f-c216-4745-bf76-ab94f1fc7c69" width="16" height="16" alt="website" /></a> &nbsp; <a href="mailto:executive@ewutc.com" aria-label="Email"><img src="https://github.com/user-attachments/assets/d2d8f691-661b-4109-ad64-ce6aaa428452" width="16" height="16" alt="email" /></a> &nbsp; <a href="https://facebook.com" aria-label="Facebook">
-            <img src="https://github.com/user-attachments/assets/688d9d32-d8c1-44a4-b5a2-3cae2bf29ae7" width="16" height="16" alt="facebook" /></a> &nbsp; <a href="https://linkedin.com" aria-label="LinkedIn"><img src="https://github.com/user-attachments/assets/0df63e9c-8543-4ab4-89e4-01bbb806357e" width="16" height="16" alt="linkedin" /></a></td>
+<td align="center" width="300"><img src="https://github.com/ewutchq/public/blob/1de9aaf7ba86a26a5044d51b38c8e43f2cfecdde/assets/images/internal/committee/18th/reveal-poster/rubel-photo.jpg" width="120" alt="Photographer portrait"><br/><strong>Mahfuj Hasan Rubel</strong><br/><img alt="EWUTC - Photographer" src="https://img.shields.io/badge/EWUTC%20-%20Photographer-0f3b66?style=flat" /><br/>
+<a href="https://www.ewutc.com/profile/executive/18th/photographer/mahfuj/" aria-label="Website"><img src="https://github.com/user-attachments/assets/b622ae9f-c216-4745-bf76-ab94f1fc7c69" width="16" height="16" alt="website" /></a> &nbsp; <a href="mailto:mahfuj.click@18th.ewutc.com" aria-label="Email"><img src="https://github.com/user-attachments/assets/d2d8f691-661b-4109-ad64-ce6aaa428452" width="16" height="16" alt="email" /></a></td>
+<td align="center" width="300"><img src="https://github.com/ewutchq/public/blob/1de9aaf7ba86a26a5044d51b38c8e43f2cfecdde/assets/images/internal/committee/18th/reveal-poster/israfel-content.jpg" width="120" alt="Content Writer portrait"><br/><strong>IsrafeI Islam</strong><br/><img alt="EWUTC - Content Writer" src="https://img.shields.io/badge/EWUTC%20-%20Content%20Writer-0f3b66?style=flat" /><br/>
+<a href="https://www.ewutc.com/profile/executive/18th/content-writer/israfel/" aria-label="Website"><img src="https://github.com/user-attachments/assets/b622ae9f-c216-4745-bf76-ab94f1fc7c69" width="16" height="16" alt="website" /></a> &nbsp; <a href="mailto:israfel.writer@18th.ewutc.com" aria-label="Email"><img src="https://github.com/user-attachments/assets/d2d8f691-661b-4109-ad64-ce6aaa428452" width="16" height="16" alt="email" /></a></td>
+<td align="center" width="300"><img src="https://github.com/ewutchq/public/blob/1de9aaf7ba86a26a5044d51b38c8e43f2cfecdde/assets/images/internal/committee/18th/reveal-poster/mahim-headcomm.jpg" width="120" alt="Head of Communication portrait"><br/><strong>Mahirafin Khan Mahim</strong><br/><img alt="EWUTC - Head of Communication" src="https://img.shields.io/badge/EWUTC%20-%20Head%20of%20Communication-0f3b66?style=flat" /><br/>
+<a href="https://www.ewutc.com/profile/executive/18th/head-of-communication/mahim/" aria-label="Website"><img src="https://github.com/user-attachments/assets/b622ae9f-c216-4745-bf76-ab94f1fc7c69" width="16" height="16" alt="website" /></a> &nbsp; <a href="mailto:mahim.hoc@18th.ewutc.com" aria-label="Email"><img src="https://github.com/user-attachments/assets/d2d8f691-661b-4109-ad64-ce6aaa428452" width="16" height="16" alt="email" /></a></td>
+<td align="center" width="300"><img src="https://github.com/ewutchq/public/blob/1de9aaf7ba86a26a5044d51b38c8e43f2cfecdde/assets/images/internal/committee/18th/reveal-poster/asad-webdev.jpg" width="120" alt="Web Developer portrait"><br/><strong>MD Asaduzzaman Atik</strong><br/><img alt="EWUTC - Web Developer" src="https://img.shields.io/badge/EWUTC%20-%20Web%20Developer-0f3b66?style=flat" /><br/>
+<a href="https://www.ewutc.com/profile/executive/18th/web-developer/asad/" aria-label="Website"><img src="https://github.com/user-attachments/assets/b622ae9f-c216-4745-bf76-ab94f1fc7c69" width="16" height="16" alt="website" /></a> &nbsp; <a href="mailto:asad.web@18th.ewutc.com" aria-label="Email"><img src="https://github.com/user-attachments/assets/d2d8f691-661b-4109-ad64-ce6aaa428452" width="16" height="16" alt="email" /></a></td>
 </tr>
 </table>
 
@@ -427,18 +425,20 @@ The following records preserve the prior two executive committees as a reference
 
 <div align="center">
 
+`Nothing To Show Here`
+<!--
 <table border="1" cellspacing="0" cellpadding="10" width="100%">
 <tr>
 <td align="center" width="1200">
 <img src="https://i.pravatar.cc/140?img=65" width="120" alt="President portrait"><br/>
 <strong>Kazi Raianul Haque</strong><br/>
 <img alt="EWUTC - President (17th)" src="https://img.shields.io/badge/EWUTC%20-%20President%20(17th)-0f3b66?style=flat" /><br/>
-<a href="https://www.ewutc.com/profile/executive/18/" aria-label="Website"><img src="https://github.com/user-attachments/assets/b622ae9f-c216-4745-bf76-ab94f1fc7c69" width="16" height="16" alt="website" /></a> &nbsp; <a href="mailto:executive@ewutc.com" aria-label="Email"><img src="https://github.com/user-attachments/assets/d2d8f691-661b-4109-ad64-ce6aaa428452" width="16" height="16" alt="email" /></a> &nbsp; <a href="https://facebook.com" aria-label="Facebook">
+<a href="https://www.ewutc.com/profile/executive/18th/" aria-label="Website"><img src="https://github.com/user-attachments/assets/b622ae9f-c216-4745-bf76-ab94f1fc7c69" width="16" height="16" alt="website" /></a> &nbsp; <a href="mailto:executive@ewutc.com" aria-label="Email"><img src="https://github.com/user-attachments/assets/d2d8f691-661b-4109-ad64-ce6aaa428452" width="16" height="16" alt="email" /></a> &nbsp; <a href="https://facebook.com" aria-label="Facebook">
             <img src="https://github.com/user-attachments/assets/688d9d32-d8c1-44a4-b5a2-3cae2bf29ae7" width="16" height="16" alt="facebook" /></a> &nbsp; <a href="https://linkedin.com" aria-label="LinkedIn"><img src="https://github.com/user-attachments/assets/0df63e9c-8543-4ab4-89e4-01bbb806357e" width="16" height="16" alt="linkedin" /></a>
 </td>
 </tr>
 </table>
-
+-->
 </div>
 
 </details>
@@ -452,18 +452,20 @@ The following records preserve the prior two executive committees as a reference
 
 <div align="center">
 
+`Nothing To Show Here`
+<!--
 <table border="1" cellspacing="0" cellpadding="10" width="100%">
 <tr>
 <td align="center" width="1200">
 <img src="https://i.pravatar.cc/140?img=65" width="120" alt="President portrait"><br/>
 <strong>Kazi Raianul Haque</strong><br/>
 <img alt="EWUTC - President (16th)" src="https://img.shields.io/badge/EWUTC%20-%20President%20(16th)-0f3b66?style=flat" /><br/>
-<a href="https://www.ewutc.com/profile/executive/18/" aria-label="Website"><img src="https://github.com/user-attachments/assets/b622ae9f-c216-4745-bf76-ab94f1fc7c69" width="16" height="16" alt="website" /></a> &nbsp; <a href="mailto:executive@ewutc.com" aria-label="Email"><img src="https://github.com/user-attachments/assets/d2d8f691-661b-4109-ad64-ce6aaa428452" width="16" height="16" alt="email" /></a> &nbsp; <a href="https://facebook.com" aria-label="Facebook">
+<a href="https://www.ewutc.com/profile/executive/18th/" aria-label="Website"><img src="https://github.com/user-attachments/assets/b622ae9f-c216-4745-bf76-ab94f1fc7c69" width="16" height="16" alt="website" /></a> &nbsp; <a href="mailto:executive@ewutc.com" aria-label="Email"><img src="https://github.com/user-attachments/assets/d2d8f691-661b-4109-ad64-ce6aaa428452" width="16" height="16" alt="email" /></a> &nbsp; <a href="https://facebook.com" aria-label="Facebook">
             <img src="https://github.com/user-attachments/assets/688d9d32-d8c1-44a4-b5a2-3cae2bf29ae7" width="16" height="16" alt="facebook" /></a> &nbsp; <a href="https://linkedin.com" aria-label="LinkedIn"><img src="https://github.com/user-attachments/assets/0df63e9c-8543-4ab4-89e4-01bbb806357e" width="16" height="16" alt="linkedin" /></a>
 </td>
 </tr>
 </table>
-
+-->
 </div>
 </details>
 
@@ -480,12 +482,12 @@ EWUTC's Faculty Moderators are academic members of East West University who serv
 <table border="1" cellspacing="0" cellpadding="10" width="100%">
 <tr>
 <td align="center" width="600">
-  <img src="https://i.pravatar.cc/140?img=24" width="120" alt="Md. Khalid Mahbub Khan portrait"><br/>
+  <img src="https://github.com/ewutchq/public/blob/7dfb5100e271346a0ed5431293745037e90e7a0a/assets/images/internal/mods/khalidm-sir-mod.jpg" width="120" alt="Md. Khalid Mahbub Khan portrait"><br/>
   <strong>Md. Khalid Mahbub Khan</strong><br/>
   <font size="2">Senior Lecturer<br/>Department of Computer Science & Engineering</font><br/>
   <img alt="EWUTC - Moderator" src="https://img.shields.io/badge/EWUTC%20-%20Moderator-0f3b66?style=flat" /><br/>
   2023–Present<br/>
-  <a href="https://www.ewu.edu" aria-label="Website"><img src="https://github.com/user-attachments/assets/b622ae9f-c216-4745-bf76-ab94f1fc7c69" width="16" height="16" alt="website" /></a> &nbsp; <a href="mailto:moderator@ewutc.com" aria-label="Email"><img src="https://github.com/user-attachments/assets/d2d8f691-661b-4109-ad64-ce6aaa428452" width="16" height="16" alt="email" /></a>
+  <a href="https://fse.ewubd.edu/computer-science-engineering/faculty-view/khalid.khan/" aria-label="Website"><img src="https://github.com/user-attachments/assets/b622ae9f-c216-4745-bf76-ab94f1fc7c69" width="16" height="16" alt="website" /></a> &nbsp; <a href="mailto:khalid.khan@ewubd.edu" aria-label="Email"><img src="https://github.com/user-attachments/assets/d2d8f691-661b-4109-ad64-ce6aaa428452" width="16" height="16" alt="email" /></a>
 </td>
 <td align="center" width="600">
   <img src="https://i.pravatar.cc/140?img=20" width="120" alt="Dr. Shamim H Ripon portrait"><br/>
@@ -493,7 +495,7 @@ EWUTC's Faculty Moderators are academic members of East West University who serv
   <font size="2">Professor<br/>Department of Computer Science & Engineering</font><br/>
   <img alt="EWUTC - Moderator" src="https://img.shields.io/badge/EWUTC%20-%20Moderator-0f3b66?style=flat" /><br/>
   Present<br/>
-  <a href="https://www.ewu.edu" aria-label="Website"><img src="https://github.com/user-attachments/assets/b622ae9f-c216-4745-bf76-ab94f1fc7c69" width="16" height="16" alt="website" /></a> &nbsp; <a href="mailto:moderator@ewutc.com" aria-label="Email"><img src="https://github.com/user-attachments/assets/d2d8f691-661b-4109-ad64-ce6aaa428452" width="16" height="16" alt="email" /></a>
+  <a href="https://www.ewubd.edu/faculty-profile/dshr/" aria-label="Website"><img src="https://github.com/user-attachments/assets/b622ae9f-c216-4745-bf76-ab94f1fc7c69" width="16" height="16" alt="website" /></a> &nbsp; <a href="mailto:dshr@ewubd.edu" aria-label="Email"><img src="https://github.com/user-attachments/assets/d2d8f691-661b-4109-ad64-ce6aaa428452" width="16" height="16" alt="email" /></a>
 </td>
 </tr>
 </table>
@@ -511,6 +513,8 @@ The following honours the faculty members who served as Moderator in prior terms
 
 <div align="center">
 
+`Nothing To Show Here`
+<!--
 <table border="1" cellspacing="0" cellpadding="10" width="100%">
 <tr>
 <td align="center" width="1200">
@@ -523,6 +527,7 @@ The following honours the faculty members who served as Moderator in prior terms
 </td>
 </tr>
 </table>
+-->
 
 </div>
 </details>
@@ -552,17 +557,16 @@ Engagement methods include:
 
 Stay connected with EWUTC through our social channels and announcements.
 
-- **Instagram:** [@ewutc_official](https://instagram.com/ewutc_official)
-- **Facebook:** [EWUTC Official](https://facebook.com/ewutc_official)
-- **LinkedIn:** [East West University Telecommunications Club](https://linkedin.com/company/ewutc)
-- **YouTube:** [EWUTC Channel](https://youtube.com/ewutc)
+- **Instagram:** [East West University Telecommunications Club](https://www.instagram.com/ewutc.bd/)
+- **Facebook:** [East West University Telecommunications Club](https://www.facebook.com/EWUTC)
+- **LinkedIn:** [East West University Telecommunications Club](https://www.linkedin.com/company/east-west-university-telecommunications-club/)
 
 ## Contact
 
 For general inquiries, membership, or partnerships, reach out directly.
 
 - **Email:** [contact@ewutc.com](mailto:contact@ewutc.com)
-- **Office:** East West University, Plot 7/A, Aftabuddin Ahmed Rd, Dhaka 1212
+- **Office:** [East West University, A/2, Jahurul Islam Avenue, Jahurul Islam City, Aftabnagar, Dhaka-1212, Bangladesh.](https://maps.app.goo.gl/5sw5h5Wv924mG3VZ6)
 - **Membership:** [ewutc.com/join](https://ewutc.com/join)
 
 ## Join Us
