@@ -490,7 +490,7 @@ EWUTC's Faculty Moderators are academic members of East West University who serv
   <a href="https://fse.ewubd.edu/computer-science-engineering/faculty-view/khalid.khan/" aria-label="Website"><img src="https://github.com/user-attachments/assets/b622ae9f-c216-4745-bf76-ab94f1fc7c69" width="16" height="16" alt="website" /></a> &nbsp; <a href="mailto:khalid.khan@ewubd.edu" aria-label="Email"><img src="https://github.com/user-attachments/assets/d2d8f691-661b-4109-ad64-ce6aaa428452" width="16" height="16" alt="email" /></a>
 </td>
 <td align="center" width="600">
-  <img src="[https://i.pravatar.cc/140?img=20](https://github.com/ewutchq/public/blob/7dfb5100e271346a0ed5431293745037e90e7a0a/assets/images/internal/mods/shamim-sir-mod.jpg)" width="120" alt="Dr. Shamim H Ripon portrait"><br/>
+  <img src="https://github.com/ewutchq/public/blob/7dfb5100e271346a0ed5431293745037e90e7a0a/assets/images/internal/mods/shamim-sir-mod.jpg" width="120" alt="Dr. Shamim H Ripon portrait"><br/>
   <strong>Dr. Shamim H Ripon</strong><br/>
   <font size="2">Professor<br/>Department of Computer Science & Engineering</font><br/>
   <img alt="EWUTC - Moderator" src="https://img.shields.io/badge/EWUTC%20-%20Moderator-0f3b66?style=flat" /><br/>
