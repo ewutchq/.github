@@ -135,26 +135,79 @@ Introduced this year, National Learning Fest provides a practical learning platf
 Regular updates from EWUTC’s channels are organized with publications first, followed by activity summaries and social highlights.
 
 ### Publications
-<small>Last updated: 2026-06-26T02:47:00+06:00</small>
 
 Recent publications, research notes, and written insights produced by EWUTC members.
 
-- [Technical Brief: Telecom Trends](#): A technical brief on emerging telecom trends and applications for student researchers.
-- [Workshop Report](#): A written recap of the latest workshop sessions, including methodologies, outcomes, and participant insights.
-- [Research Note: Learning Fest](#): A research note detailing the educational impact and learning outcomes from the National Learning Fest.
+<table border="1" width="100%" cellspacing="0" cellpadding="10">
+<tr>
+<td>
+<a href="#">🔗 Technical Brief: Telecom Trends</a><br />
+A technical brief on emerging telecom trends and applications for student researchers.
+</td>
+</tr>
+<tr>
+<td>
+<a href="#">🔗 Workshop Report</a><br />
+A written recap of the latest workshop sessions, including methodologies, outcomes, and participant insights.
+</td>
+</tr>
+<tr>
+<td>
+<a href="#">🔗 Research Note: Learning Fest</a><br />
+A research note detailing the educational impact and learning outcomes from the National Learning Fest.
+</td>
+</tr>
+<tr>
+<td align="center">
+<a href="https://ewutc.org/updates/publications" target="_blank">
+<small>Read More</small>
+</a>
+</td>
+</tr>
+<tr>
+<td align="right">
+<small>Last updated: 2026-06-26T02:47:00+06:00</small>
+</td>
+</tr>
+</table>
 
-🔗 [Read More](https://ewutc.org/updates/activity)
 
 ### Activity Updates
-<small>Last updated: 2026-06-26T02:47:00+06:00</small>
 
 A focused summary of recent club activity, online stories, and program updates that keep the audience informed.
 
-- [Campus Workshop Recap](#): Summary of the latest IoT and cybersecurity workshop outcomes, including participant insights and project showcases.
-- [Program Launch Announcement](#): Announcement of a new mentoring program designed to support students preparing for telecom and IT internships.
-- [Student Showcase Highlights](#): Highlights from recent student project presentations and collaborative learning sessions with industry reviewers.
-
-🔗 [More Updates](https://ewutc.org/updates/activity)
+<table border="1" width="100%" cellspacing="0" cellpadding="10">
+<tr>
+<td>
+<a href="#">🔗 Campus Workshop Recap</a><br />
+Summary of the latest IoT and cybersecurity workshop outcomes, including participant insights and project showcases.
+</td>
+</tr>
+<tr>
+<td>
+<a href="#">🔗 Program Launch Announcement</a><br />
+Announcement of a new mentoring program designed to support students preparing for telecom and IT internships.
+</td>
+</tr>
+<tr>
+<td>
+<a href="#">🔗 Student Showcase Highlights</a><br />
+Highlights from recent student project presentations and collaborative learning sessions with industry reviewers.
+</td>
+</tr>
+<tr>
+<td align="center">
+<a href="https://ewutc.org/updates/activity" target="_blank">
+<small>More Updates</small>
+</a>
+</td>
+</tr>
+<tr>
+<td align="right">
+<small>Last updated: 2026-06-26T02:47:00+06:00</small>
+</td>
+</tr>
+</table>
 
 ### Social Updates
 
