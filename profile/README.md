@@ -141,20 +141,17 @@ Recent publications, research notes, and written insights produced by EWUTC memb
 <table border="1" width="100%" cellspacing="0" cellpadding="10">
 <tr>
 <td width="1200">
-<a href="#">🔗 Technical Brief: Telecom Trends</a><br />
-A technical brief on emerging telecom trends and applications for student researchers.
+<a href="#">🔗 Technical Brief: Telecom Trends</a>: A technical brief on emerging telecom trends and applications for student researchers.
 </td>
 </tr>
 <tr>
 <td width="1200">
-<a href="#">🔗 Workshop Report</a><br />
-A written recap of the latest workshop sessions, including methodologies, outcomes, and participant insights.
+<a href="#">🔗 Workshop Report</a>: A written recap of the latest workshop sessions, including methodologies, outcomes, and participant insights.
 </td>
 </tr>
 <tr>
 <td width="1200">
-<a href="#">🔗 Research Note: Learning Fest</a><br />
-A research note detailing the educational impact and learning outcomes from the National Learning Fest.
+<a href="#">🔗 Research Note: Learning Fest</a>: A research note detailing the educational impact and learning outcomes from the National Learning Fest.
 </td>
 </tr>
 <tr>
@@ -179,20 +176,17 @@ A focused summary of recent club activity, online stories, and program updates t
 <table border="1" width="100%" cellspacing="0" cellpadding="10">
 <tr>
 <td width="1200">
-<a href="#">🔗 Campus Workshop Recap</a><br />
-Summary of the latest IoT and cybersecurity workshop outcomes, including participant insights and project showcases.
+<a href="#">🔗 Campus Workshop Recap</a>: Summary of the latest IoT and cybersecurity workshop outcomes, including participant insights and project showcases.
 </td>
 </tr>
 <tr>
 <td width="1200">
-<a href="#">🔗 Program Launch Announcement</a><br />
-Announcement of a new mentoring program designed to support students preparing for telecom and IT internships.
+<a href="#">🔗 Program Launch Announcement</a>: Announcement of a new mentoring program designed to support students preparing for telecom and IT internships.
 </td>
 </tr>
 <tr>
 <td width="1200">
-<a href="#">🔗 Student Showcase Highlights</a><br />
-Highlights from recent student project presentations and collaborative learning sessions with industry reviewers.
+<a href="#">🔗 Student Showcase Highlights</a>: Highlights from recent student project presentations and collaborative learning sessions with industry reviewers.
 </td>
 </tr>
 <tr>
@@ -219,8 +213,7 @@ Recent social channel activity, announcements, and community highlights from EWU
 <img src="https://github.com/user-attachments/assets/e0606423-d145-48ee-95a9-b33cfd817f52" width="100" alt="Social media update cover">
 </td>
 <td width="1080" valign="top">
-<a href="#">🔗 Event Countdown Post</a><br />
-A countdown update for the upcoming National Entrepreneurship Summit, driving registration and speaker previews.
+<a href="#">🔗 Event Countdown Post</a>: A countdown update for the upcoming National Entrepreneurship Summit, driving registration and speaker previews.
 </td>
 </tr>
 <tr>
@@ -228,8 +221,7 @@ A countdown update for the upcoming National Entrepreneurship Summit, driving re
 <img src="https://github.com/user-attachments/assets/e0606423-d145-48ee-95a9-b33cfd817f52" width="100" alt="Social media update cover">
 </td>
 <td width="1080" valign="top">
-<a href="#">🔗 Champion Spotlight</a><br />
-A profile of top performers from the latest Telco Warfare challenge, celebrating teamwork and technical excellence.
+<a href="#">🔗 Champion Spotlight</a>: A profile of top performers from the latest Telco Warfare challenge, celebrating teamwork and technical excellence.
 </td>
 </tr>
 <tr>
@@ -237,8 +229,7 @@ A profile of top performers from the latest Telco Warfare challenge, celebrating
 <img src="https://github.com/user-attachments/assets/e0606423-d145-48ee-95a9-b33cfd817f52" width="100" alt="Social media update cover">
 </td>
 <td width="1080" valign="top">
-<a href="#">🔗 Community Engagement Roundup</a><br />
-A social summary of recent member feedback, collaboration posts, and cross-university participation updates.
+<a href="#">🔗 Community Engagement Roundup</a>: A social summary of recent member feedback, collaboration posts, and cross-university participation updates.
 </td>
 </tr>
 <tr>
