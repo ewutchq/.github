@@ -562,7 +562,6 @@ Engagement methods include:
 - competitions that emphasize learning and performance
 - collaborative projects and shared learning resources
 
-Members can join our online member community for collaboration, event coordination, and member-only updates: [Member Community](https://ewutc.org/community).
 
 ## Follow
 
